@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 01ea6a1906782044093f8e12998c08e5, type: 3}
+  m_Name: Scene 2
+  m_EditorClassIdentifier: 
+  dialogueLines:
+  - speakerName: 
+    sentence: '*Rinnng*'
+  - speakerName: Spade
+    sentence: "\u201CH- huh? \u201D"
+  - speakerName: 
+    sentence: '*Click*'
+  - speakerName: Spade
+    sentence: " \u201C Sigh\u2026 when will that dream ever stop coming back \u201D\r\n"
+  - speakerName: Spade
+    sentence: " \u201C ! \u201D\r\n"
+  - speakerName: Spade
+    sentence: " \u201C I'M GONNA BE LATE FOR MY SHIFT! \u201D\r\n"

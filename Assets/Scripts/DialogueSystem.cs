@@ -2,6 +2,7 @@ using System.Collections;
 using UnityEngine;
 using TMPro;
 using UnityEngine.SceneManagement;
+using UnityEngine.UI;
 using System.Collections.Generic;
 
 public class DialogueSystem : MonoBehaviour
@@ -10,7 +11,16 @@ public class DialogueSystem : MonoBehaviour
     public TextMeshProUGUI dialogueText;
     public float typingSpeed = 0.05f;
     public Dialogue testDialogue;
-    public string nextSceneName; // Name of the next scene
+    public string nextSceneName;
+
+    public GameObject choicePanel;
+    public Button choice1Button;
+    public Button choice2Button;
+
+    public Dialogue choice1Dialogue;
+    public Dialogue choice2Dialogue;
+    public string choice1Scene;
+    public string choice2Scene;
 
     private Queue<Dialogue.DialogueLine> dialogueLines;
 
@@ -18,6 +28,11 @@ public class DialogueSystem : MonoBehaviour
     {
         dialogueLines = new Queue<Dialogue.DialogueLine>();
         StartDialogue(testDialogue);
+
+        choicePanel.SetActive(false);
+
+        choice1Button.onClick.AddListener(() => OnChoiceSelected(choice1Dialogue, choice1Scene));
+        choice2Button.onClick.AddListener(() => OnChoiceSelected(choice2Dialogue, choice2Scene));
     }
 
     public void StartDialogue(Dialogue dialogue)
@@ -59,18 +74,25 @@ public class DialogueSystem : MonoBehaviour
     void EndDialogue()
     {
         Debug.Log("End of dialogue.");
-        LoadNextScene(); // Load the next scene
+        ShowChoices();
     }
 
-    void LoadNextScene()
+    void ShowChoices()
     {
-        if (!string.IsNullOrEmpty(nextSceneName))
+        choicePanel.SetActive(true);
+    }
+
+    void OnChoiceSelected(Dialogue selectedDialogue, string selectedScene)
+    {
+        choicePanel.SetActive(false);
+
+        if (selectedDialogue != null)
         {
-            SceneManager.LoadScene(nextSceneName);
+            StartDialogue(selectedDialogue);
         }
-        else
+        else if (!string.IsNullOrEmpty(selectedScene))
         {
-            Debug.LogWarning("Next scene name is not set!");
+            SceneManager.LoadScene(selectedScene);
         }
     }
 
