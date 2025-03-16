@@ -12,6 +12,20 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 01ea6a1906782044093f8e12998c08e5, type: 3}
   m_Name: TestDialogue
   m_EditorClassIdentifier: 
-  speakerName: Officer 1
-  sentences:
-  - Hurry, the fire is spreading
+  dialogueLines:
+  - speakerName: Officer 1
+    sentence: '*Huff puff*
+
+      
+
+'
+  - speakerName: Officer 2
+    sentence: ' "Is that everyone?"'
+  - speakerName: Officer 1
+    sentence: ' "Is that everyone?"'
+  - speakerName: Officer 2
+    sentence: Cough cough "I'm not sure, all i could find is this kid, there cou-"
+  - speakerName: 
+    sentence: BOOM!
+  - speakerName: Officer 1
+    sentence: ...

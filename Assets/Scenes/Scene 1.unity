@@ -152,6 +152,7 @@ MonoBehaviour:
   dialogueText: {fileID: 2053392643}
   typingSpeed: 0.05
   testDialogue: {fileID: 11400000, guid: 8e80bd46b48474e44820921c723a8b01, type: 2}
+  nextSceneName: Scene 2
 --- !u!4 &137926414
 Transform:
   m_ObjectHideFlags: 0
@@ -800,7 +801,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: 0, y: 0, z: 413.15378, w: 0}
+  m_margin: {x: 0, y: 0, z: -339.99994, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
