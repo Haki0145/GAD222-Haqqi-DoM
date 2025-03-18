@@ -22,15 +22,11 @@ MonoBehaviour:
 
 '
   - speakerName: 
-    sentence: 'a bustling place filled with people with many different stories.
-
-'
-  - speakerName: 
     sentence: "Some Happy, \r\n\r\n"
   - speakerName: 
     sentence: 'Some sad,
 
-      
+
 
 '
   - speakerName: 
@@ -42,8 +38,8 @@ MonoBehaviour:
   - speakerName: 
     sentence: 'But for now, lets focus on a certain young man
 
-      A man, who
-      tries to ignore the past
+      A man, who tries
+      to ignore the past
 
       Faces a dilemma that could change his future
 
@@ -69,7 +65,7 @@ MonoBehaviour:
     sentence: "\u201CYour sister isn\u2019t here to help\u2026so go ahead, try reaching
       it with your tiny toes \u201D "
   - speakerName: Spade
-    sentence: "(Should I help her? But I\u2019m running late)"
-  - speakerName: Spade
     sentence: "( Those brats\u2026picking on someone smaller than them early in the
       morning)"
+  - speakerName: Spade
+    sentence: "(Should I help her? But I\u2019m running late)"

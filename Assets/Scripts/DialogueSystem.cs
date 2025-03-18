@@ -23,6 +23,8 @@ public class DialogueSystem : MonoBehaviour
     public string choice2Scene;
 
     private Queue<Dialogue.DialogueLine> dialogueLines;
+    private bool isChoicemade = false;
+    private int choiceMade = 0;
 
     void Start()
     {
@@ -74,7 +76,14 @@ public class DialogueSystem : MonoBehaviour
     void EndDialogue()
     {
         Debug.Log("End of dialogue.");
-        ShowChoices();
+        if (!isChoicemade && (choice1Dialogue != null || choice2Dialogue != null))
+        {
+            ShowChoices();
+        }
+        else
+        {
+            LoadNextScene();
+        }
     }
 
     void ShowChoices()
@@ -84,6 +93,8 @@ public class DialogueSystem : MonoBehaviour
 
     void OnChoiceSelected(Dialogue selectedDialogue, string selectedScene)
     {
+        isChoicemade = true;
+        nextSceneName = selectedScene;
         choicePanel.SetActive(false);
 
         if (selectedDialogue != null)
@@ -96,9 +107,21 @@ public class DialogueSystem : MonoBehaviour
         }
     }
 
+    void LoadNextScene()
+    {
+        if (!string.IsNullOrEmpty(nextSceneName))
+        {
+            SceneManager.LoadScene(nextSceneName);
+        }
+        else
+        {
+            Debug.LogWarning("Next scene name is not set!");
+        }
+    }
+
     void Update()
     {
-        if (Input.GetMouseButtonDown(1) || Input.GetKeyDown(KeyCode.Space))
+        if (Input.GetMouseButtonDown(0) || Input.GetKeyDown(KeyCode.Space))
         {
             DisplayNextLine();
         }

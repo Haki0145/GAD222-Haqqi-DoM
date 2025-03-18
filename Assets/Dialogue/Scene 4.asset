@@ -1,0 +1,86 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 01ea6a1906782044093f8e12998c08e5, type: 3}
+  m_Name: Scene 4
+  m_EditorClassIdentifier: 
+  dialogueLines:
+  - speakerName: Spade
+    sentence: '"Your change is 4.50"'
+  - speakerName: Spade
+    sentence: '"Thank you and Have a nice day"'
+  - speakerName: 
+    sentence: After the customer left, Spade gave out a sigh of relief
+  - speakerName: Spade
+    sentence: '"Eventhough I was late for my job"'
+  - speakerName: Spade
+    sentence: '"It was a good thing the Manager was chill about it"'
+  - speakerName: 
+    sentence: Spade checks his watch to see if his shift is about to end
+  - speakerName: Spade
+    sentence: '"15 more minutes and I''m home free"'
+  - speakerName: Spade
+    sentence: '"I wonder if my favourite show is on"'
+  - speakerName: 
+    sentence: He grabes the the T.V remots and points it to the small T.V. in the
+      corner of the store
+  - speakerName: 
+    sentence: '*Click*'
+  - speakerName: News Reporter
+    sentence: The case of the missing student, Belle Lawrence, continues on as police
+      keep investigating their whereabouts.
+  - speakerName: News Reporter
+    sentence: She was last seen leaving school to go back home.
+  - speakerName: News Reporter
+    sentence: 'Unbeknownst to anyone, this would be the last time anyone saw her. '
+  - speakerName: News Reporter
+    sentence: 'The parents of the missing student continue to worry about her safety
+      as they fear she might be dead
+
+'
+  - speakerName: News Reporter
+    sentence: 'The investigation team has been spread thin due to the upcoming parade
+      happening next week. '
+  - speakerName: News Reporter
+    sentence: Although evidence of the case has been hard to find, her loved ones
+      are praying for her well being.
+  - speakerName: News Reporter
+    sentence: 'In other news-
+
+'
+  - speakerName: Spade
+    sentence: '*Click*'
+  - speakerName: Spade
+    sentence: (They still can't find her?)
+  - speakerName: Spade
+    sentence: (Poor kid)
+  - speakerName: Spade
+    sentence: "(If the boss were here\u2026)"
+  - speakerName: Spade
+    sentence: (...)
+  - speakerName: Spade
+    sentence: "(I\u2019m sure the RPD can handle this)"
+  - speakerName: Spade
+    sentence: (I wonder if grace is still there?)
+  - speakerName: Spade
+    sentence: ...
+  - speakerName: Spade
+    sentence: '"Well...I think it''s alomst time to clock out"'
+  - speakerName: Spade
+    sentence: '"I hope I have enough money for-"'
+  - speakerName: 
+    sentence: When he touched his left back pocket
+  - speakerName: 
+    sentence: His soul drop to the ground with a pale face
+  - speakerName: 
+    sentence: He patted until he realised...
+  - speakerName: Spade
+    sentence: '"M...my....WALLET IS GONE!!!"'
