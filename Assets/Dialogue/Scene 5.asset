@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 01ea6a1906782044093f8e12998c08e5, type: 3}
+  m_Name: Scene 5
+  m_EditorClassIdentifier: 
+  dialogueLines:
+  - speakerName: 
+    sentence: After his shift
+  - speakerName: 
+    sentence: But to no avail, he had trouble finding it
+  - speakerName: Spade
+    sentence: '"Sigh... how could I lose my wallet "'
+  - speakerName: Spade
+    sentence: '"Me... a responsible adult...lost it  ;-;"'
+  - speakerName: Spade
+    sentence: '"Sigh... I guess i can go to the polic station if they found it"'
+  - speakerName: ???
+    sentence: '"Mister !!!"'
+  - speakerName: Spade
+    sentence: '"?"'
+  - speakerName: 
+    sentence: He heard a familiar voice shouting behind him
+  - speakerName: 
+    sentence: As he turned around, he saw the same little girl he helped back then
+  - speakerName: 
+    sentence: And she waves at hime with...
+  - speakerName: Spade
+    sentence: '"My Wallet!!"'
+  - speakerName: ???
+    sentence: '"You dropped early this morning"'
+  - speakerName: ???
+    sentence: '"Here"'
+  - speakerName: 
+    sentence: She gives teh wallet back to spade
+  - speakerName: 
+    sentence: '"Thank you so much"'
+  - speakerName: 
+    sentence: A little tear apears as he smiles
+  - speakerName: Spade
+    sentence: (I guess this is what you call good karma)
+  - speakerName: 'Spade '
+    sentence: '"You really save my skin there'
+  - speakerName: 'Spade '
+    sentence: '"Well I gotta go... Thanks for finding it "'
+  - speakerName: ???
+    sentence: '"Wait Mister"'
+  - speakerName: ???
+    sentence: '"Before you go....I want to hire you"'
+  - speakerName: Spade
+    sentence: '"Huh?"'
+  - speakerName: Spade
+    sentence: '"Hire me?....for wh-"'
+  - speakerName: 
+    sentence: Before he could finish,
+  - speakerName: 
+    sentence: As he turns around to look at her
+  - speakerName: 
+    sentence: She holds out the the old buisness card Spade had
+  - speakerName: 
+    sentence: She holds out the the old buisness card Spade had
+  - speakerName: ???
+    sentence: '"Detective Spade Soles of Shuffle Agency"'
+  - speakerName: Sophie Lawrence
+    sentence: '"My name is Sophie Lawrence"'
+  - speakerName: Sophie Lawrence
+    sentence: '"And I want you to find my sister, Belle Lawrence"'
+  - speakerName: Spade
+    sentence: '"?!"'
+  - speakerName: 
+    sentence: To be continue
