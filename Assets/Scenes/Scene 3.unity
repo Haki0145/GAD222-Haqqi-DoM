@@ -885,8 +885,8 @@ MonoBehaviour:
   choicePanel: {fileID: 1290768752}
   choice1Button: {fileID: 228766783}
   choice2Button: {fileID: 510708057}
-  choice1Dialogue: {fileID: 0}
-  choice2Dialogue: {fileID: 0}
+  choice1Dialogue: {fileID: 11400000, guid: 6b46860646196ec48a297b899716ea58, type: 2}
+  choice2Dialogue: {fileID: 11400000, guid: 6f041fc8df09b7c4d8bfe6ef92c964ac, type: 2}
   choice1Scene: Scene 4
   choice2Scene: Scene 4
 --- !u!4 &966008697
