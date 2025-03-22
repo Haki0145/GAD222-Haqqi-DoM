@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 01ea6a1906782044093f8e12998c08e5, type: 3}
+  m_Name: S5_Option 1
+  m_EditorClassIdentifier: 
+  dialogueLines:
+  - speakerName: Spade
+    sentence: '"Alright kid I''ll help you out"'
+  - speakerName: Sophie Lawrence
+    sentence: '"R-really?!"'
+  - speakerName: 'Spade '
+    sentence: '"Yeah... the last thing I want is to make someone cry in this city"'
+  - speakerName: 'Spade '
+    sentence: '"Therefore...I''ll come back out of retirement...just this once"'
+  - speakerName: Sophie Lawrence
+    sentence: '"You promise?"'
+  - speakerName: Spade
+    sentence: '"Yeah"'
+  - speakerName: Sophie Lawrence
+    sentence: '"Pinky Promise?"'
+  - speakerName: Spade
+    sentence: '"Alright"'
+  - speakerName: 
+    sentence: He reaches out his pinky finger to interlock hers
+  - speakerName: 
+    sentence: Solidifying a contract between them
+  - speakerName: Spade
+    sentence: '"If I''m going to do this, I''ll need your help"'
+  - speakerName: Sophie Lawrence
+    sentence: '"I need all the info and speculation you have about your sister while
+      I ask around the city"'
+  - speakerName: Sophie Lawrence
+    sentence: '"Ok"'
+  - speakerName: Spade
+    sentence: '"For now it''s getting late, you should head back home befor your
+      parents worry"'
+  - speakerName: Sophie Lawrence
+    sentence: '"Alright, I''ll see you tommorow near the conenient store"'
+  - speakerName: Sophie Lawrence
+    sentence: '"Byeee"'
+  - speakerName: 
+    sentence: She then runs back home while Spade waves goodbye to her
+  - speakerName: 
+    sentence: He then looks at his right hand and gaze upon his pinky
+  - speakerName: Spade
+    sentence: '"Pinky promise huh"'
+  - speakerName: Spade
+    sentence: '"I have to get serious then"'
