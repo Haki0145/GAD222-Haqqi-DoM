@@ -24,12 +24,20 @@ public class DialogueSystem : MonoBehaviour
 
     private Queue<Dialogue.DialogueLine> dialogueLines;
     private bool isChoicemade = false;
-    private int choiceMade = 0;
 
     void Start()
     {
         dialogueLines = new Queue<Dialogue.DialogueLine>();
-        StartDialogue(testDialogue);
+
+        if (PlayerPrefs.GetInt("SkipDialogue", 0) == 1)
+        {
+            PlayerPrefs.SetInt("SkipDialogue", 0);
+            SkipToNextChoice();
+        }
+        else
+        {
+            StartDialogue(testDialogue);
+        }
 
         choicePanel.SetActive(false);
 
@@ -75,7 +83,6 @@ public class DialogueSystem : MonoBehaviour
 
     void EndDialogue()
     {
-        Debug.Log("End of dialogue.");
         if (!isChoicemade && (choice1Dialogue != null || choice2Dialogue != null))
         {
             ShowChoices();
@@ -104,6 +111,20 @@ public class DialogueSystem : MonoBehaviour
         else if (!string.IsNullOrEmpty(selectedScene))
         {
             SceneManager.LoadScene(selectedScene);
+        }
+    }
+
+    public void SkipToNextChoice()
+    {
+        dialogueLines.Clear();
+
+        if (choice1Dialogue != null || choice2Dialogue != null)
+        {
+            ShowChoices();
+        }
+        else
+        {
+            LoadNextScene();
         }
     }
 

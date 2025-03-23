@@ -157,9 +157,9 @@ MonoBehaviour:
   choice1Button: {fileID: 2559068540179525859}
   choice2Button: {fileID: 2559068540179525857}
   choice1Dialogue: {fileID: 11400000, guid: ab05368da4af8b74294d77e90916ac19, type: 2}
-  choice2Dialogue: {fileID: 0}
-  choice1Scene: 
-  choice2Scene: 
+  choice2Dialogue: {fileID: 11400000, guid: 0468064956fc0de4b89d260603551fa5, type: 2}
+  choice1Scene: Scene 6
+  choice2Scene: The End
 --- !u!4 &344021501
 Transform:
   m_ObjectHideFlags: 0

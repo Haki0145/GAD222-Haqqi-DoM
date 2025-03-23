@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 01ea6a1906782044093f8e12998c08e5, type: 3}
+  m_Name: S5_Option 2
+  m_EditorClassIdentifier: 
+  dialogueLines:
+  - speakerName: Spade
+    sentence: '"I''m sorry kid...there isn''t anything I can do"'
+  - speakerName: Spade
+    sentence: '"But..."'
+  - speakerName: 
+    sentence: He then proceeded to take out a piece of paper and write down a phone
+      number
+  - speakerName: Spade
+    sentence: '"This is my friends number"'
+  - speakerName: Spade
+    sentence: '"She''s also a detective"'
+  - speakerName: Spade
+    sentence: '"Hopefully she''ll help you"'
+  - speakerName: 
+    sentence: She takes the paper and raises her eybrow on it
+  - speakerName: Sophie Lawrence
+    sentence: '"Are you sure?"'
+  - speakerName: Spade
+    sentence: '"Yeah... she is the best that I know of"'
+  - speakerName: Spade
+    sentence: '"Im sure she will help you"'
+  - speakerName: 
+    sentence: Sophie then lowered her head slightly along with her shoulders
+  - speakerName: Sophie Lawrence
+    sentence: It was obvious that she was dissapointed by his answer
+  - speakerName: Sophie Lawrence
+    sentence: '"Ok.... thanks for the suggestion"'
+  - speakerName: 
+    sentence: She then leaves to the opposite directions of where she lived
+  - speakerName: 
+    sentence: 'Spade watches her leave with feelings of regret '
+  - speakerName: 
+    sentence: Despite knowing he could have helped her find her sister...
+  - speakerName: 
+    sentence: He chose not to be curious and move on without ever looking back
+  - speakerName: 
+    sentence: WIth guilt and heavy regret
