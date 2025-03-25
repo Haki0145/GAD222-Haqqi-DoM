@@ -16,7 +16,7 @@ MonoBehaviour:
   - speakerName: Officer 1
     sentence: '*Huff puff*
 
-      
+
 
 '
   - speakerName: Officer 2
@@ -29,3 +29,7 @@ MonoBehaviour:
     sentence: BOOM!
   - speakerName: Officer 1
     sentence: ...
+  - speakerName: Officer 2
+    sentence: '"I guess... this kid is the only survivor"'
+  - speakerName: Spade
+    sentence: '"B-Boss....."'
