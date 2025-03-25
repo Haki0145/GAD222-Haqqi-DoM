@@ -309,7 +309,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3303292913273531695, guid: 1479261aa08019040bb540ed43d04385, type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4216800553615757711, guid: 1479261aa08019040bb540ed43d04385, type: 3}
       propertyPath: m_text
@@ -401,12 +401,12 @@ MonoBehaviour:
   dialogueText: {fileID: 0}
   typingSpeed: 0.05
   testDialogue: {fileID: 11400000, guid: 99e9b46ac38da624c97107ed318fb067, type: 2}
-  nextSceneName: 
+  nextSceneName: Scene 7
   choicePanel: {fileID: 690029731}
   choice1Button: {fileID: 690029730}
   choice2Button: {fileID: 690029728}
-  choice1Dialogue: {fileID: 0}
-  choice2Dialogue: {fileID: 0}
+  choice1Dialogue: {fileID: 11400000, guid: bbbc6734c024e8643b0180776da307d0, type: 2}
+  choice2Dialogue: {fileID: 11400000, guid: 5bcc08c15ea184a45b53b61bed137aab, type: 2}
   choice1Scene: 
   choice2Scene: 
 --- !u!4 &1219217368

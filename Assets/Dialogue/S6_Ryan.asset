@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 01ea6a1906782044093f8e12998c08e5, type: 3}
+  m_Name: S6_Ryan
+  m_EditorClassIdentifier: 
+  dialogueLines:
+  - speakerName: Spade
+    sentence: '"What can you tell me about Ryan durring teh festival?"'
+  - speakerName: Ivan
+    sentence: '"The captain of the Basketball team?"'
+  - speakerName: Ivan
+    sentence: '"Hmmm...as a matter of fact..."'
+  - speakerName: Ivan
+    sentence: '"He does have a crush of a paticular student"'
+  - speakerName: Ivan
+    sentence: '"that being... the victim herself"'
+  - speakerName: Ivan
+    sentence: '"?!"'
+  - speakerName: Ivan
+    sentence: '"Its no doubt that he tried his best to get closer to her by studying
+      togther with her"'
+  - speakerName: Ivan
+    sentence: '"When he finally was brave, he decided to confess to her durring the
+      festival"'
+  - speakerName: Ivan
+    sentence: '"As for the rest...hmmmm"'
+  - speakerName: Ivan
+    sentence: '"Thats all I could jog up my head with the amount you gave"'
+  - speakerName: Ivan
+    sentence: '"Until next time old friend"'
+  - speakerName: 
+    sentence: With little information he was given, he decides what to do next
