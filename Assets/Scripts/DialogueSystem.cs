@@ -24,6 +24,9 @@ public class DialogueSystem : MonoBehaviour
 
     private Queue<Dialogue.DialogueLine> dialogueLines;
     private bool isChoicemade = false;
+    private Coroutine typingCoroutine;
+    private bool isTyping = false;
+    private string currentSentence;
 
     void Start()
     {
@@ -67,18 +70,37 @@ public class DialogueSystem : MonoBehaviour
 
         Dialogue.DialogueLine line = dialogueLines.Dequeue();
         nameText.text = line.speakerName;
-        StopAllCoroutines();
-        StartCoroutine(TypeSentence(line.sentence));
+        currentSentence = line.sentence;
+        StopTyping();
+        typingCoroutine = StartCoroutine(TypeSentence(currentSentence));
     }
 
     IEnumerator TypeSentence(string sentence)
     {
+        isTyping = true;
         dialogueText.text = "";
         foreach (char letter in sentence.ToCharArray())
         {
             dialogueText.text += letter;
             yield return new WaitForSeconds(typingSpeed);
         }
+        isTyping = false;
+    }
+
+    void StopTyping()
+    {
+        if (typingCoroutine != null)
+        {
+            StopCoroutine(typingCoroutine);
+            isTyping = false;
+        }
+    }
+
+    void CompleteCurrentLine()
+    {
+        StopTyping();
+        dialogueText.text = currentSentence;
+        isTyping = false;
     }
 
     void EndDialogue()
@@ -144,7 +166,14 @@ public class DialogueSystem : MonoBehaviour
     {
         if (Input.GetMouseButtonDown(0) || Input.GetKeyDown(KeyCode.Space))
         {
-            DisplayNextLine();
+            if (isTyping)
+            {
+                CompleteCurrentLine();
+            }
+            else
+            {
+                DisplayNextLine();
+            }
         }
     }
 }

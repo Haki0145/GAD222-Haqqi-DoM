@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 01ea6a1906782044093f8e12998c08e5, type: 3}
+  m_Name: S7_Rebecca route
+  m_EditorClassIdentifier: 
+  dialogueLines:
+  - speakerName: 
+    sentence: Back at his home
+  - speakerName: 
+    sentence: Spade puts up all the clues he has so far
+  - speakerName: 
+    sentence: 'Belle has two people close to her '
+  - speakerName: 
+    sentence: Her best friend and the captain of the basket ball team
+  - speakerName: 
+    sentence: 'So far he acuired additional info about Rebecca '
+  - speakerName: 
+    sentence: That being she and Belle love Ballet
+  - speakerName: 
+    sentence: And entered a competion and won
+  - speakerName: 
+    sentence: It should be a happy moment for them...yet still
+  - speakerName: 
+    sentence: 'Belle kept her distance from her '
+  - speakerName: 
+    sentence: As if she didnt want to drag her into her problems
+  - speakerName: 
+    sentence: But they're best friends
+  - speakerName: 
+    sentence: Shouldn't they consult with each other about hard times?
+  - speakerName: 
+    sentence: It was time to interogate the suspect
+  - speakerName: 
+    sentence: And that would be
