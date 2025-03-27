@@ -26,6 +26,18 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Scene 5.unity
     guid: 6e0fa7157c4695042ac9ab079e3a0ea8
+  - enabled: 1
+    path: Assets/Scenes/Scene 6.unity
+    guid: 3c424c47e807bb540a2c978ef4b868b0
+  - enabled: 1
+    path: Assets/Scenes/S7_Rebecca Route.unity
+    guid: f2cf92c94cb212e4cb663eb32caec051
+  - enabled: 1
+    path: Assets/Scenes/S7_Ryan Route.unity
+    guid: 22a334df33a236f41a1cd5673c7846c4
+  - enabled: 1
+    path: Assets/Scenes/The End.unity
+    guid: ad5f28e6614f414468760d383de12ddd
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0
