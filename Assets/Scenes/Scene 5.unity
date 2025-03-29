@@ -840,37 +840,13 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 1385208504441492472, guid: 1479261aa08019040bb540ed43d04385, type: 3}
-      propertyPath: m_Name
-      value: Take the case
-      objectReference: {fileID: 0}
     - target: {fileID: 3303292913273531695, guid: 1479261aa08019040bb540ed43d04385, type: 3}
       propertyPath: m_Name
       value: Choice Panel
       objectReference: {fileID: 0}
     - target: {fileID: 3303292913273531695, guid: 1479261aa08019040bb540ed43d04385, type: 3}
       propertyPath: m_IsActive
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 4216800553615757711, guid: 1479261aa08019040bb540ed43d04385, type: 3}
-      propertyPath: m_text
-      value: refuse the case
-      objectReference: {fileID: 0}
-    - target: {fileID: 4216800553615757711, guid: 1479261aa08019040bb540ed43d04385, type: 3}
-      propertyPath: m_fontSize
-      value: 23
-      objectReference: {fileID: 0}
-    - target: {fileID: 4216800553615757711, guid: 1479261aa08019040bb540ed43d04385, type: 3}
-      propertyPath: m_fontSizeBase
-      value: 23
-      objectReference: {fileID: 0}
-    - target: {fileID: 5127595887486843695, guid: 1479261aa08019040bb540ed43d04385, type: 3}
-      propertyPath: m_text
-      value: Take the case
-      objectReference: {fileID: 0}
-    - target: {fileID: 6970131696482901216, guid: 1479261aa08019040bb540ed43d04385, type: 3}
-      propertyPath: m_Name
-      value: Refuse the case
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []

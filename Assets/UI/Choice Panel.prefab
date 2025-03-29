@@ -149,7 +149,7 @@ GameObject:
   - component: {fileID: 5737324281988547672}
   - component: {fileID: 8674987825884965727}
   m_Layer: 5
-  m_Name: Take the case
+  m_Name: Choice 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -563,7 +563,7 @@ GameObject:
   - component: {fileID: 4407474536993524046}
   - component: {fileID: 1653867024468891826}
   m_Layer: 5
-  m_Name: Refuse the case
+  m_Name: Choice 2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
