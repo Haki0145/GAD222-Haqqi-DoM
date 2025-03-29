@@ -603,6 +603,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Dialogue box
       objectReference: {fileID: 0}
+    - target: {fileID: 4235628852322052311, guid: 78f443f1d54585e4582126f5c3a69ddd, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 4461870164678197002, guid: 78f443f1d54585e4582126f5c3a69ddd, type: 3}
       propertyPath: m_AnchoredPosition.x
       value: -225
@@ -1127,7 +1131,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1290768753
 RectTransform:
   m_ObjectHideFlags: 0
@@ -1486,9 +1490,9 @@ RectTransform:
   m_Children:
   - {fileID: 57367486}
   - {fileID: 415362349}
+  - {fileID: 678920491}
   - {fileID: 1290768753}
   - {fileID: 1662843015}
-  - {fileID: 678920491}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
