@@ -14,50 +14,51 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   dialogueLines:
   - speakerName: 
-    sentence: 3 days later
+    sentence: 3 days later...
   - speakerName: 
-    sentence: After interogating Sophie and several people he believed had info on
-      the case
+    sentence: After interrogating Sophie and several people he believed had information
+      on the case.
   - speakerName: 
-    sentence: He learned a lot of things about the victim
+    sentence: He learned a lot of things about the victim.
   - speakerName: 
-    sentence: First, A letter that he got from sophie that happened to be for Belle
+    sentence: First, a letter that he got from Sophie that happened to be for Belle.
   - speakerName: 
     sentence: It states to come to a roof top around 8pm
   - speakerName: 
-    sentence: Second, there was a school festival days before the incident
+    sentence: Second, there was a school festival days before the incident.
   - speakerName: 
-    sentence: Third. After the school festival, belle became distant to everyone
+    sentence: Third, after the school festival, Belle became distant to everyone
       around her.
   - speakerName: 
-    sentence: Belle Lawrence was not only a smart student
+    sentence: Belle Lawrence was not only a smart student,
   - speakerName: 
-    sentence: But someone who was recognized as teh ace student throught the entire
-      school
+    sentence: but someone who was recognized as the ace student throughout the entire
+      school.
   - speakerName: 
-    sentence: 'Outside her family, she often talks to her best friend Rebbeca '
+    sentence: Outside her family she often talks to her best friend, Rebbeca.
   - speakerName: Spade
-    sentence: And the ace of the basketball team, Ryan
+    sentence: And the ace of the basketball team, Ryan.
   - speakerName: 
-    sentence: Kind, beautiful and smart, she was bound to make enmeies with her popularity
+    sentence: Kind, beautiful, and smart, she was bound to make enemies with her
+      popularity.
   - speakerName: Spade
     sentence: (The only quetsion is...)
   - speakerName: Spade
-    sentence: (Who would have a big grudge against her)
+    sentence: (Who would have a big grudge against her?)
   - speakerName: Spade
-    sentence: (is this really a disappearence case... or its something more?)
+    sentence: (Is this really a disappearence case... or is it something more?)
   - speakerName: Spade
-    sentence: (Something must have happen in that festival)
+    sentence: (Something must have happened in that festival...)
   - speakerName: Spade
-    sentence: (And I need more information)
+    sentence: (...And I need more information.)
   - speakerName: 
-    sentence: Spade then decided to go to a familiar alley way
+    sentence: Spade then decided to go to a familiar alley way.
   - speakerName: 
     sentence: One that he hasn't been to in a long time.
   - speakerName: 
-    sentence: 'He then goes up to a metal door outside a suspicious building '
+    sentence: He then goes up to a metal door outside a suspicious building.
   - speakerName: 
-    sentence: 'He knocks on it in a rythm '
+    sentence: He knocks on it in a rhythm.
   - speakerName: Spade
     sentence: '*Knock Knock Knock*'
   - speakerName: ???
@@ -69,52 +70,52 @@ MonoBehaviour:
   - speakerName: 
     sentence: Suddenly, a small door slides open to reveal a pair of eyes
   - speakerName: ???
-    sentence: '"Little Spade !"'
+    sentence: '"Little Spade!"'
   - speakerName: ???
     sentence: '"Is that really you?"'
   - speakerName: Spade
     sentence: '"Im no longer little Ivan. "'
   - speakerName: Ivan
-    sentence: '"True. I didn''t expect to see you again in a long time"'
+    sentence: '"True. I didn''t expect to see you again in a long time."'
   - speakerName: Ivan
-    sentence: '"Spare the clueless talk... you knew I was coming "'
+    sentence: '"Spare the clueless talk... you knew I was coming."'
   - speakerName: Ivan
-    sentence: '"Maybe. Maybe not"'
+    sentence: '"Maybe. Maybe not."'
   - speakerName: Ivan
-    sentence: '"More importantly... your not here for reunion are you my friend?"'
+    sentence: '"More importantly... you''re not here for reunion are you, my friend?"'
   - speakerName: 
-    sentence: Even behind the door, his tone suddenly sounded higher aand more playful
+    sentence: Even behind the door, his tone suddenly sounded higher and more playful.
   - speakerName: 
     sentence: Spade then proceeds to take out his handbook and show all the info
-      he has to Ivan
+      he has to Ivan.
   - speakerName: Ivan
-    sentence: '"Hmmmm"'
+    sentence: '"Hmm..."'
   - speakerName: Ivan
-    sentence: '"So it is true"'
+    sentence: '"So it is true."'
   - speakerName: Ivan
-    sentence: '"Spade Sole returns to be a detective"'
+    sentence: '"Spade Sole returns to be a detective."'
   - speakerName: Spade
     sentence: '"I need to know what happen during the school festival related to
-      her"'
+      her."'
   - speakerName: Spade
     sentence: '"There are a lot of suspects but the main ones...."'
   - speakerName: Spade
-    sentence: '"Are her best friend and the captain of teh basketball team"'
+    sentence: '"...Are her best friend and the captain of the basketball team."'
   - speakerName: Spade
     sentence: '"Any ideas what happen between these 3 during the school festival?"'
   - speakerName: Ivan
-    sentence: '"Hmmmm...maybe"'
+    sentence: '"Hmm...maybe"'
   - speakerName: Ivan
-    sentence: '"But I think I need something to jog my memory"'
+    sentence: '"But I think I need something to jog my memory."'
   - speakerName: 
-    sentence: 'Ivan then puts out his hand and rubs his fingers together '
+    sentence: Ivan then puts out his hand and rubs his fingers together.
   - speakerName: 
-    sentence: Spade rolls his eyes and takes out his remaining money from his wallet
+    sentence: Spade rolls his eyes and takes out his remaining money from his wallet.
   - speakerName: Ivan
-    sentence: '"Nice...but that can ony recover 1 memory from my mind"'
+    sentence: '"Nice...but that can ony recover 1 memory from my mind."'
   - speakerName: Spade
-    sentence: '"My salary is not solid. cut me soem slack"'
+    sentence: '"My salary is not solid. Cut me soem slack."'
   - speakerName: Ivan
-    sentence: '"Sorry Spade... but my info isn''t cheap y''know"'
+    sentence: '"Sorry Spade... but my info isn''t cheap y''know."'
   - speakerName: Spade
-    sentence: (If it comes to this then I have to ask wisely )
+    sentence: (If it comes to this then I have to ask wisely.)

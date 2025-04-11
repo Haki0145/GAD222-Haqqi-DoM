@@ -14,24 +14,24 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   dialogueLines:
   - speakerName: Spade
-    sentence: '"Your change is 4.50"'
+    sentence: '"Your change is $4.50."'
   - speakerName: Spade
-    sentence: '"Thank you and Have a nice day"'
+    sentence: '"Thank you and have a nice day."'
   - speakerName: 
-    sentence: After the customer left, Spade gave out a sigh of relief
+    sentence: After the customer left, Spade gave out a sigh of relief.
   - speakerName: Spade
-    sentence: '"Eventhough I was late for my job"'
+    sentence: '"Even though I was late for my job,"'
   - speakerName: Spade
-    sentence: '"It was a good thing the Manager was chill about it"'
+    sentence: '"it was a good thing the manager was chill about it."'
   - speakerName: 
-    sentence: Spade checks his watch to see if his shift is about to end
+    sentence: Spade checks his watch to see if his shift is about to end.
   - speakerName: Spade
-    sentence: '"15 more minutes and I''m home free"'
+    sentence: '"15 more minutes and I''m home free."'
   - speakerName: Spade
-    sentence: '"I wonder if my favourite show is on"'
+    sentence: '"I wonder if my favourite show is on..."'
   - speakerName: 
-    sentence: He grabes the the T.V remots and points it to the small T.V. in the
-      corner of the store
+    sentence: He grabs the the TV remotes and points it to the small TV in the corner
+      of the store.
   - speakerName: 
     sentence: '*Click*'
   - speakerName: News Reporter
@@ -43,7 +43,7 @@ MonoBehaviour:
     sentence: 'Unbeknownst to anyone, this would be the last time anyone saw her. '
   - speakerName: News Reporter
     sentence: 'The parents of the missing student continue to worry about her safety
-      as they fear she might be dead
+      as they fear she might be dead.
 
 '
   - speakerName: News Reporter
@@ -51,7 +51,7 @@ MonoBehaviour:
       happening next week. '
   - speakerName: News Reporter
     sentence: Although evidence of the case has been hard to find, her loved ones
-      are praying for her well being.
+      are praying for her wellbeing.
   - speakerName: News Reporter
     sentence: 'In other news-
 
@@ -61,7 +61,7 @@ MonoBehaviour:
   - speakerName: Spade
     sentence: (They still can't find her?)
   - speakerName: Spade
-    sentence: (Poor kid)
+    sentence: (Poor kid...)
   - speakerName: Spade
     sentence: "(If the boss were here\u2026)"
   - speakerName: Spade
@@ -69,18 +69,18 @@ MonoBehaviour:
   - speakerName: Spade
     sentence: "(I\u2019m sure the RPD can handle this)"
   - speakerName: Spade
-    sentence: (I wonder if grace is still there?)
+    sentence: (I wonder if Grace is still there?)
   - speakerName: Spade
     sentence: ...
   - speakerName: Spade
-    sentence: '"Well...I think it''s alomst time to clock out"'
+    sentence: '"Well...I think it''s almost time to clock out."'
   - speakerName: Spade
     sentence: '"I hope I have enough money for-"'
   - speakerName: 
-    sentence: When he touched his left back pocket
+    sentence: When he touched his left back pocket,
   - speakerName: 
-    sentence: His soul drop to the ground with a pale face
+    sentence: his soul drop to the ground with a pale face.
   - speakerName: 
     sentence: He patted until he realised...
   - speakerName: Spade
-    sentence: '"M...my....WALLET IS GONE!!!"'
+    sentence: '"M...my...WALLET IS GONE!!!"'

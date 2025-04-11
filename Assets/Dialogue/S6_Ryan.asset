@@ -14,28 +14,28 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   dialogueLines:
   - speakerName: Spade
-    sentence: '"What can you tell me about Ryan durring teh festival?"'
+    sentence: '"What can you tell me about Ryan during the festival?"'
   - speakerName: Ivan
     sentence: '"The captain of the Basketball team?"'
   - speakerName: Ivan
     sentence: '"Hmmm...as a matter of fact..."'
   - speakerName: Ivan
-    sentence: '"He does have a crush of a paticular student"'
+    sentence: '"He does have a crush of a paticular student."'
   - speakerName: Ivan
     sentence: '"that being... the victim herself"'
   - speakerName: Ivan
     sentence: '"?!"'
   - speakerName: Ivan
-    sentence: '"Its no doubt that he tried his best to get closer to her by studying
-      togther with her"'
+    sentence: '"It''s no doubt that he tried his best to get closer to her by studying
+      togther with her."'
   - speakerName: Ivan
-    sentence: '"When he finally was brave, he decided to confess to her durring the
-      festival"'
+    sentence: '"When he finally was brave, he decided to confess to her during the
+      festival."'
   - speakerName: Ivan
-    sentence: '"As for the rest...hmmmm"'
+    sentence: '"As for the rest...hm..."'
   - speakerName: Ivan
-    sentence: '"Thats all I could jog up my head with the amount you gave"'
+    sentence: '"That''s all I could jog up my head with the amount you gave."'
   - speakerName: Ivan
-    sentence: '"Until next time old friend"'
+    sentence: '"Until next time, old friend."'
   - speakerName: 
-    sentence: With little information he was given, he decides what to do next
+    sentence: With little information he was given, he decides what to do next.

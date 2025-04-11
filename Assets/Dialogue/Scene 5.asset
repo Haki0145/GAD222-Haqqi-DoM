@@ -14,107 +14,108 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   dialogueLines:
   - speakerName: 
-    sentence: 'For th next 2 hours, he kept searching for his missing wallet '
+    sentence: 'For the next 2 hours, he kept searching for his missing wallet. '
   - speakerName: 
-    sentence: But to no avail, he had trouble finding it
+    sentence: But to no avail, he had trouble finding it.
   - speakerName: Spade
-    sentence: '"Sigh... how could I lose my wallet "'
+    sentence: '"Sigh... how could I lose my wallet..."'
   - speakerName: Spade
-    sentence: '"Me... a responsible adult...lost it  ;-;"'
+    sentence: '"Me... a responsible adult...lost it."'
   - speakerName: Spade
     sentence: '"Sigh... I guess i can go to the police station if they''ve found
       it"'
   - speakerName: ???
-    sentence: '"Mister !!!"'
+    sentence: '"Mister!"'
   - speakerName: Spade
     sentence: '"?"'
   - speakerName: 
-    sentence: He heard a familiar voice shouting behind him
+    sentence: He heard a familiar voice shouting behind him.
   - speakerName: 
-    sentence: As he turned around, he saw the same little girl he helped back then
+    sentence: As he turned around, he saw the same little girl he helped from before.
   - speakerName: 
-    sentence: And she waves at him with...
+    sentence: She waves at him with...
   - speakerName: Spade
-    sentence: '"My Wallet!!"'
+    sentence: '"My wallet!"'
   - speakerName: ???
-    sentence: '"You dropped early this morning"'
+    sentence: '"You dropped this early this morning."'
   - speakerName: ???
-    sentence: '"Here"'
+    sentence: '"Here!"'
   - speakerName: 
-    sentence: She gives teh wallet back to spade
+    sentence: She gives the wallet back to Spade.
   - speakerName: 
-    sentence: '"Thank you so much"'
+    sentence: '"Thank you so much!"'
   - speakerName: 
-    sentence: A little tear apears as he smiles
+    sentence: A little tear apears as he smiles.
   - speakerName: Spade
     sentence: (I guess this is what you call good deed)
   - speakerName: 'Spade '
-    sentence: '"You really save my skin there'
+    sentence: '"You really save my skin there."'
   - speakerName: 'Spade '
-    sentence: '"Well I gotta go... Thanks for finding it "'
+    sentence: '"Well I gotta go... Thanks for finding it."'
   - speakerName: ???
-    sentence: '"Wait Mister"'
+    sentence: '"Wait mister!"'
   - speakerName: ???
-    sentence: '"Before you go....I want to hire you"'
+    sentence: '"Before you go...I want to hire you."'
   - speakerName: Spade
     sentence: '"Huh?"'
   - speakerName: Spade
     sentence: '"Hire me?....for wh-"'
   - speakerName: 
-    sentence: As he turns around to look at her
+    sentence: As he turns around to look at her,
   - speakerName: 
-    sentence: The little girl shows the old buisness card Spade kept in his wallet
+    sentence: The little girl shows the old business card Spade kept in his wallet.
   - speakerName: Sophie Lawrence
-    sentence: '"My name is Sophie Lawrence"'
+    sentence: '"My name is Sophie Lawrence."'
   - speakerName: Sophie Lawrence
     sentence: '"And I want to hire you..."'
   - speakerName: Sophie Lawrence
-    sentence: '"Detective Spade Soles"'
+    sentence: '"...Detective Spade Soles"'
   - speakerName: Spade
     sentence: '"?!"'
   - speakerName: Spade
     sentence: '"Lawrence...as in... "'
   - speakerName: Sophie Lawrence
-    sentence: '"Thats right... you probably watched the news"'
+    sentence: '"That''s right... you probably watched the news."'
   - speakerName: Sophie Lawrence
-    sentence: '"My older sister, Belle, went missing a few days ago"'
-  - speakerName: Sophie Lawrence
-    sentence: '"The police have been no help, my parents are worried and everyone
-      thinks shes dead"'
+    sentence: '"My older sister, Belle, went missing a few days ago."'
   - speakerName: Sophie Lawrence
     sentence: '"The police have been no help, my parents are worried and everyone
       thinks shes dead"'
   - speakerName: Sophie Lawrence
     sentence: '"But now that I found a detective, sis can fin-""'
+  - speakerName: Spade
+    sentence: '"I can''t help you kid."'
   - speakerName: Sophie Lawrence
     sentence: '"?!"'
   - speakerName: Spade
-    sentence: '"Shuffle Agency has been disolved years ago"'
+    sentence: '"Shuffle Agency has been dissolved years ago."'
   - speakerName: Spade
-    sentence: '"And Im retired rookie"'
+    sentence: '"And I''m a retired rookie."'
   - speakerName: Sophie Lawrence
     sentence: '"But why?"'
   - speakerName: Spade
-    sentence: '"... its a long story"'
+    sentence: '"...Its a long story"'
   - speakerName: Spade
-    sentence: '"the point being...its best for teh police to handle this"'
+    sentence: '"The point is, it''s best for the police to handle this."'
   - speakerName: Spade
-    sentence: '"Its better for the profesionals to do this so-""'
+    sentence: '"It''s better for the professionals to do this, so-"'
   - speakerName: 
-    sentence: Before he could say anything else, he then notice little Sophie in
-      the verge of crying
+    sentence: Before he could say anything else, he then noticed little Sophie on
+      the verge of crying.
   - speakerName: Sophie Lawrence
-    sentence: '"Mister Spade... There isn''t anything that I can do"'
+    sentence: '"Mister Spade... There isn''t anything that I can do."'
   - speakerName: Sophie Lawrence
-    sentence: '"I keep pestering the police, Ican''t comfort my parents...."'
+    sentence: '"I keep pestering the police, I can''t comfort my parents..."'
   - speakerName: Sophie Lawrence
-    sentence: '"And worst of all, I can''t find my big sister"'
+    sentence: '"And worst of all, I can''t find my big sister."'
   - speakerName: Sophie Lawrence
-    sentence: '"But now I have a chance to find her with your help"'
+    sentence: '"But now I have a chance to find her with your help."'
   - speakerName: Sophie Lawrence
-    sentence: '"I beg of you...help me find my sister"'
+    sentence: '"I beg of you...help me find my sister."'
+  - speakerName: Sophie Lawrence
+    sentence: '"I''ll even give you all my pocket money to find her."'
   - speakerName: 
-    sentence: Her eyes filled with desperation while clutching both her hands togther
-      with little hope she had left
-  - speakerName: Sophie Lawrence
-    sentence: 
+    sentence: Her eyes filled with desperation while clutching both her hands together
+      with little hope she had left.
+  - speakerName: 
+    sentence: He thought long and hard and decided that he would...

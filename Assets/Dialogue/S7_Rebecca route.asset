@@ -14,9 +14,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   dialogueLines:
   - speakerName: 
-    sentence: Back at his home
+    sentence: Back at his home...
   - speakerName: 
-    sentence: Spade puts up all the clues he has so far
+    sentence: Spade puts up all the clues he has so far.
   - speakerName: Spade
     sentence: '(Belle has two people close to her) '
   - speakerName: Spade
@@ -24,11 +24,11 @@ MonoBehaviour:
   - speakerName: Spade
     sentence: (So far I acuired additional info about Rebecca)
   - speakerName: Spade
-    sentence: (She and Belle love Ballet)
+    sentence: (She and Belle love ballet)
   - speakerName: Spade
     sentence: (And entered a competion and won)
   - speakerName: Spade
-    sentence: (It should be a happy moment for them...yet still)
+    sentence: (It should be a happy moment for them...yet still,)
   - speakerName: Spade
     sentence: (Belle kept her distance from her)
   - speakerName: 
@@ -38,6 +38,6 @@ MonoBehaviour:
   - speakerName: Spade
     sentence: (Shouldn't they consult with each other through hard times?)
   - speakerName: 
-    sentence: (It's time to interogate the next suspect)
+    sentence: (It's time to interrogate the next suspect)
   - speakerName: Spade
     sentence: (And that would be...)

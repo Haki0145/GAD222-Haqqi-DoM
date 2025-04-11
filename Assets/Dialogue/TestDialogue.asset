@@ -24,12 +24,13 @@ MonoBehaviour:
   - speakerName: Officer 1
     sentence: ' "Is that everyone?"'
   - speakerName: Officer 2
-    sentence: Cough cough "I'm not sure, all i could find is this kid, there cou-"
+    sentence: '*Cough cough* "I''m not sure, all I could find is this kid, there
+      cou-"'
   - speakerName: 
     sentence: BOOM!
   - speakerName: Officer 1
     sentence: ...
   - speakerName: Officer 2
-    sentence: '"I guess... this kid is the only survivor"'
+    sentence: '"I guess... this kid is the only survivor."'
   - speakerName: Spade
-    sentence: '"B-Boss....."'
+    sentence: '"B-Boss..."'

@@ -14,44 +14,44 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   dialogueLines:
   - speakerName: Spade
-    sentence: '"Alright kid I''ll help you out"'
+    sentence: '"Alright kid I''ll help you out."'
   - speakerName: Sophie Lawrence
     sentence: '"R-really?!"'
   - speakerName: 'Spade '
-    sentence: '"Yeah... the last thing I want is to make someone cry in this city"'
+    sentence: '"Yeah... the last thing I want is to make someone cry in this city."'
   - speakerName: 'Spade '
-    sentence: '"Therefore...I''ll come back out of retirement...just this once"'
+    sentence: '"Therefore...I''ll come back out of retirement...just this once."'
   - speakerName: Sophie Lawrence
     sentence: '"You promise?"'
   - speakerName: Spade
-    sentence: '"Yeah"'
+    sentence: '"Yeah."'
   - speakerName: Sophie Lawrence
-    sentence: '"Pinky Promise?"'
+    sentence: '"Pinky promise?"'
   - speakerName: Spade
-    sentence: '"Alright"'
+    sentence: '"Alright."'
   - speakerName: 
-    sentence: He reaches out his pinky finger to interlock hers
+    sentence: He reaches out his pinky finger to interlock with hers,
   - speakerName: 
-    sentence: Solidifying a contract between them
+    sentence: solidifying a contract between them.
   - speakerName: Spade
-    sentence: '"If I''m going to do this, I''ll need your help"'
+    sentence: '"If I''m going to do this, I''ll need your help."'
   - speakerName: Sophie Lawrence
     sentence: '"I need all the info and speculation you have about your sister while
-      I ask around the city"'
+      I ask around the city."'
   - speakerName: Sophie Lawrence
-    sentence: '"Ok"'
+    sentence: '"Okay!"'
   - speakerName: Spade
-    sentence: '"For now it''s getting late, you should head back home befor your
-      parents worry"'
+    sentence: '"For now it''s getting late, you should head back home before your
+      parents worry."'
   - speakerName: Sophie Lawrence
-    sentence: '"Alright, I''ll see you tommorow near the conenient store"'
+    sentence: '"Alright, I''ll see you tommorow near the convenient store."'
   - speakerName: Sophie Lawrence
-    sentence: '"Byeee"'
+    sentence: '"Bye!!"'
   - speakerName: 
-    sentence: She then runs back home while Spade waves goodbye to her
+    sentence: She then runs back home while Spade waves goodbye to her.
   - speakerName: 
-    sentence: He then looks at his right hand and gaze upon his pinky
+    sentence: He then looks at his right hand and gaze upon his pinky.
   - speakerName: Spade
-    sentence: '"Pinky promise huh"'
+    sentence: '"Pinky promise, huh."'
   - speakerName: Spade
-    sentence: '"I have to get serious then"'
+    sentence: '"I have to get serious then."'

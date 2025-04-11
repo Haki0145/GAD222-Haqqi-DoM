@@ -14,40 +14,40 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   dialogueLines:
   - speakerName: Spade
-    sentence: '"What was Rebecca doing durinf the school festival?"'
+    sentence: '"What was Rebecca doing during the school festival?"'
   - speakerName: Ivan
-    sentence: '"The victims best friend?"'
+    sentence: '"Rebecca, the victims best friend?"'
   - speakerName: Ivan
-    sentence: '"Well... since you don''t know, she participated in a contest"'
+    sentence: '"Well... since you don''t know, she participated in a contest."'
   - speakerName: Ivan
-    sentence: '"A... Ballet contest"'
+    sentence: '"A... ballet contest."'
   - speakerName: Spade
     sentence: '"Ballet?"'
   - speakerName: Ivan
-    sentence: '"I''ve heard Belle and Rebecca had a strong passion for the art "'
+    sentence: '"I''ve heard Belle and Rebecca had a strong passion for the art."'
   - speakerName: Ivan
-    sentence: '"Its the reason why they became such good friends"'
+    sentence: '"It''s the reason why they became such good friends."'
   - speakerName: Ivan
     sentence: '"As for the competition?"'
   - speakerName: Ivan
-    sentence: '"They won of course"'
+    sentence: '"They won, of course."'
   - speakerName: 
-    sentence: '"And after that, when Belle was distant"'
+    sentence: '"And after that, when Belle was distant,"'
   - speakerName: 
-    sentence: '"She barely went to school and was depress"'
+    sentence: '"she barely went to school and was even more depressed."'
   - speakerName: Spade
     sentence: '"..."'
   - speakerName: Ivan
     sentence: '"What? Unsatisfied with the info?"'
   - speakerName: Spade
-    sentence: '"Would''ve been better if you added more details"'
+    sentence: '"Would''ve been better if you added more details."'
   - speakerName: Ivan
-    sentence: '"Thats all I could jog up my head with the amount you gave"'
+    sentence: '"That''s all I could jog up my head with the amount you gave."'
   - speakerName: Ivan
-    sentence: '"But I''m sure that info alone is enough for you"'
+    sentence: '"But I''m sure that info alone is enough for you."'
   - speakerName: Ivan
-    sentence: '"Until next time old friend"'
+    sentence: '"Until next time, old friend."'
   - speakerName: 
-    sentence: 'With little information he recieved '
+    sentence: With little information he recieved,
   - speakerName: 
-    sentence: He decided to leave and think what to do next
+    sentence: he decided to leave and think what to do next.

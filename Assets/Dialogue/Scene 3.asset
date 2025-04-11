@@ -14,15 +14,15 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   dialogueLines:
   - speakerName: 
-    sentence: 'Ranpo city
+    sentence: 'Ranpo City
 
 '
   - speakerName: 
-    sentence: 'a bustling place filled with people with many different stories.
+    sentence: 'A bustling place filled with people with many different stories.
 
 '
   - speakerName: 
-    sentence: "Some Happy, \r\n\r\n"
+    sentence: "Some happy, \r\n\r\n"
   - speakerName: 
     sentence: 'Some sad,
 
@@ -30,42 +30,40 @@ MonoBehaviour:
 
 '
   - speakerName: 
-    sentence: 'Some that are amazing
+    sentence: 'Some that are amazing,
 
 '
   - speakerName: 
-    sentence: Some that are boring
+    sentence: Some that are boring.
   - speakerName: 
     sentence: 'But for now, lets focus on a certain young man
 
       A man, who tries
       to ignore the past
 
-      Faces a dilemma that could change his future
-
-'
+      Faces a dilemma that could change his future.'
   - speakerName: 
-    sentence: 'This is a story of dreams and mystery And how people can sometimes
-      be shuffled in the wrong or right deck  '
+    sentence: This is a story of dreams and mystery and how people can sometimes
+      be shuffled in the wrong or right deck.
   - speakerName: Spade
     sentence: '*Huff puff, huff puff*'
   - speakerName: Spade
-    sentence: (If I keep running I should be able to catch up the bus)
+    sentence: (If I keep running I should be able to catch up the bus).
   - speakerName: ???
-    sentence: "\u201CHey, give it back, my sister gave it to me !\u201D"
+    sentence: "\u201CHey, give it back, my sister gave it to me!\u201D"
   - speakerName: Spade
     sentence: '"?"'
   - speakerName: 
-    sentence: As he runs to the station, he notices two kids bullying a little girl
+    sentence: As he runs to the station, he notices two kids bullying a little girl.
   - speakerName: Kid 1
     sentence: "\u201CHahaha\u201D"
   - speakerName: Kid 1
     sentence: "\u201COr what?\u201D "
   - speakerName: Kid 2
     sentence: "\u201CYour sister isn\u2019t here to help\u2026so go ahead, try reaching
-      it with your tiny toes \u201D "
+      it with your tiny toes.\u201D"
   - speakerName: Spade
-    sentence: "( Those brats\u2026picking on someone smaller than them early in the
+    sentence: "(Those brats\u2026picking on someone smaller than them early in the
       morning)"
   - speakerName: Spade
     sentence: "(Should I help her? But I\u2019m running late)"

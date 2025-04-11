@@ -14,28 +14,28 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   dialogueLines:
   - speakerName: 
-    sentence: Back at his home
+    sentence: Back at his home...
   - speakerName: 
-    sentence: Spade put up all the clues he has so far
+    sentence: Spade put up all the clues he has so far.
   - speakerName: Spade
     sentence: '(Belle has two people close to her) '
   - speakerName: Spade
-    sentence: (Her best friend and the captain of the basket ball team)
+    sentence: (Her best friend and the captain of the basketball team)
   - speakerName: Spade
     sentence: (So far I acuired additional info about Ryan)
   - speakerName: Spade
     sentence: (He has a crush on Belle like many others)
   - speakerName: Spade
-    sentence: (He tries to get closer to her by studying togetehr from time to time)
+    sentence: (He tries to get closer to her by studying together from time to time)
   - speakerName: Spade
     sentence: (He plan to confess his feelings to her during the festival)
   - speakerName: Spade
-    sentence: (What happened next is unknown)
+    sentence: (What happened next is unknown...)
   - speakerName: Spade
     sentence: (Did he get rejected to the point he sought out revenge?)
   - speakerName: Spade
-    sentence: (I still need more info)
+    sentence: (I still need more info...)
   - speakerName: Spade
-    sentence: (Its time to inerogate one of the suspects)
+    sentence: (It's time to inerrogate one of the suspects)
   - speakerName: Spade
     sentence: (That being...)

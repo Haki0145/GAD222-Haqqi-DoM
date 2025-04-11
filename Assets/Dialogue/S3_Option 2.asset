@@ -14,67 +14,62 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   dialogueLines:
   - speakerName: Spade
-    sentence: "( Sorry kid, but I can\u2019t be late )"
+    sentence: "(Sorry kid, but I can\u2019t be late)"
   - speakerName: 
     sentence: Before Spade could run any faster, he somehow stepped on a banana peel
       and slips
   - speakerName: Spade
     sentence: "\u201CWOAH\u201D \r\n"
   - speakerName: 
-    sentence: 'Right before he hits the ground, his shoes come off due to not tying
-      them properly and hits the 2 kids
-
-'
+    sentence: Right before he hits the ground, his shoes come off due to not tying
+      them properly and hits the 2 kids.
   - speakerName: Kid 1
-    sentence: " \u201Coof\u201D\r\n"
+    sentence: " \u201COof.\u201D\r\n"
   - speakerName: Kid 2
-    sentence: " \u201COuch\u201D\r\n"
+    sentence: " \u201COuch.\u201D\r\n"
   - speakerName: 
-    sentence: With the impact, their nose start to bleed
+    sentence: With the impact, the 2 kids' noses start to bleed.
   - speakerName: Kid 1
     sentence: "\u201CM-my nose!!!\u201D\r\n"
   - speakerName: Kid 2
     sentence: "\u201CMommy!!!\u201D\r\n"
   - speakerName: 
-    sentence: "While they sobbed, they dropped the object that they took from the
-      little girl \r\n"
+    sentence: 'While they sobbed, they dropped the object that they took from the
+      little girl.
+
+'
   - speakerName: 
     sentence: "Upon closer inspection, it happened to be\u2026\r\n"
   - speakerName: Spade
     sentence: " \"A pebble? \u201D\r\n"
   - speakerName: ???
-    sentence: "\u201C Roxy !\u201D"
+    sentence: "\u201C Roxy!\u201D"
   - speakerName: 
-    sentence: The little girl picked up the pebble
+    sentence: The little girl picked up the pebble.
   - speakerName: ???
-    sentence: " \u201C Thank you mister for saving my pet rock \u201D\r\n"
+    sentence: " \u201CThank you mister for saving my pet rock.\u201D\r\n"
   - speakerName: Spade
     sentence: "\u201CSure\u2026no problem kid?\u201D\r\n"
   - speakerName: Spade
-    sentence: '(How embarassing... well at least helped her out...in a way >///<)
+    sentence: '(How embarassing... well at least I helped her out...in a way)
 
 '
   - speakerName: Spade
-    sentence: Spade then looks at his wacth and remembers why he was running
+    sentence: Spade then looks at his watch and remembers why he was running.
   - speakerName: Spade
     sentence: '"I''M GONNA BE LATE!!!"'
   - speakerName: 
-    sentence: He then puts on his shoes and starts sprinting
+    sentence: He then puts on his shoes and starts sprinting.
   - speakerName: 
-    sentence: But what Spade didn't realise is that he dropped his wallet
-  - speakerName: 
-    sentence: But what Spade didn't realise is that he dropped his wallet
+    sentence: But what Spade didn't realise is that he dropped his wallet.
   - speakerName: ???
-    sentence: '"MIster your wallet!"'
+    sentence: '"Mister your wallet!"'
   - speakerName: 
-    sentence: The little girl try shouting out to him but he was gone in a flash
+    sentence: The little girl try shouting out to him but he was gone in a flash.
   - speakerName: 
-    sentence: She then picked up the wallet and opened it to see any info she could
-      return the wallet
+    sentence: She then picked up the wallet and opened it to see any info about him
+      so she can return it.
   - speakerName: 
-    sentence: She then picked up the wallet and opened it to see any info she could
-      return the wallet
-  - speakerName: 
-    sentence: But then she noticed an old buisness card that peaked her intrest
+    sentence: But then she noticed an old buisness card that piqued her interest.
   - speakerName: ???
     sentence: '"Shuffle....Agency?"'

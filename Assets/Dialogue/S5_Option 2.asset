@@ -14,39 +14,39 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   dialogueLines:
   - speakerName: Spade
-    sentence: '"I''m sorry kid...there isn''t anything I can do"'
+    sentence: '"I''m sorry kid...there isn''t anything I can do."'
   - speakerName: Spade
     sentence: '"But..."'
   - speakerName: 
     sentence: He then proceeded to take out a piece of paper and write down a phone
-      number
+      number.
   - speakerName: Spade
-    sentence: '"This is my friends number"'
+    sentence: '"This is my friend''s number."'
   - speakerName: Spade
     sentence: '"She''s also a detective"'
   - speakerName: Spade
-    sentence: '"Hopefully she''ll help you"'
+    sentence: '"Hopefully she''ll help you."'
   - speakerName: 
-    sentence: She takes the paper and raises her eybrow on it
+    sentence: She takes the paper and raises her eyebrow on it.
   - speakerName: Sophie Lawrence
     sentence: '"Are you sure?"'
   - speakerName: Spade
-    sentence: '"Yeah... she is the best that I know of"'
+    sentence: '"Yeah... she is the best that I know of."'
   - speakerName: Spade
-    sentence: '"Im sure she will help you"'
+    sentence: '"I''m sure she will help you."'
   - speakerName: 
-    sentence: Sophie then lowered her head slightly along with her shoulders
+    sentence: Sophie then lowered her head slightly along with her shoulders.
   - speakerName: Sophie Lawrence
-    sentence: It was obvious that she was dissapointed by his answer
+    sentence: It was obvious that she was disappointed by his answer.
   - speakerName: Sophie Lawrence
-    sentence: '"Ok.... thanks for the suggestion"'
+    sentence: '"Okay... thanks for the suggestion."'
   - speakerName: 
-    sentence: She then leaves to the opposite directions of where she lived
+    sentence: She then leaves to the opposite directions of where she lives.
   - speakerName: 
-    sentence: 'Spade watches her leave with feelings of regret '
+    sentence: Spade watches her leave with feelings of regret.
   - speakerName: 
     sentence: Despite knowing he could have helped her find her sister...
   - speakerName: 
-    sentence: He chose not to be curious and move on without ever looking back
+    sentence: He chose not to be curious and move on without ever looking back,
   - speakerName: 
-    sentence: WIth guilt and heavy regret
+    sentence: WIth guilt and heavy regret.

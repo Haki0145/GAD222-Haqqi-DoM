@@ -16,12 +16,12 @@ MonoBehaviour:
   - speakerName: 
     sentence: '*Rinnng*'
   - speakerName: Spade
-    sentence: "\u201CH- huh? \u201D"
+    sentence: "\u201CH-huh? \u201D"
   - speakerName: 
     sentence: '*Click*'
   - speakerName: Spade
-    sentence: " \u201C Sigh\u2026 when will that dream ever stop coming back \u201D\r\n"
+    sentence: " \u201C Sigh\u2026 when will that dream ever stop coming back?\u201D\r\n"
   - speakerName: Spade
     sentence: " \u201C ! \u201D\r\n"
   - speakerName: Spade
-    sentence: " \u201C I'M GONNA BE LATE FOR MY SHIFT! \u201D\r\n"
+    sentence: " \u201CI'M GONNA BE LATE FOR MY SHIFT!\u201D\r\n"
