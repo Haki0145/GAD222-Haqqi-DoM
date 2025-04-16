@@ -1,17 +1,10 @@
 using UnityEngine;
-using UnityEngine.UI;
 
 public class DraggableEvidence : MonoBehaviour
 {
     private Vector3 offset;
     private bool isDragging;
     public int evidenceID;
-    public string evidenceText;
-
-    void Start()
-    {
-        GetComponentInChildren<Text>().text = evidenceText;
-    }
 
     void OnMouseDown()
     {
