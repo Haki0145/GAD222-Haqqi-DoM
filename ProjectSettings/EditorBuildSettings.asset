@@ -12,6 +12,9 @@ EditorBuildSettings:
     path: Assets/Scenes/Main Menu.unity
     guid: 4dc6f1008825bb6429798a16853ea8bc
   - enabled: 1
+    path: Assets/Scenes/Evidence G1.unity
+    guid: fc1a52536c6f3da40bd8c47b8ad4042c
+  - enabled: 1
     path: Assets/Scenes/Scene 1.unity
     guid: a8ad9041fa4661d4c98e1edbaf9f6ec0
   - enabled: 1
