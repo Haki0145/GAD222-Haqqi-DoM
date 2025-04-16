@@ -154,7 +154,7 @@ public class DialogueSystem : MonoBehaviour
     {
         if (!string.IsNullOrEmpty(nextSceneName))
         {
-            SceneManager.LoadScene(nextSceneName);
+            FadeSystem.Instance.FadeToScene(nextSceneName);
         }
         else
         {
@@ -176,4 +176,6 @@ public class DialogueSystem : MonoBehaviour
             }
         }
     }
+
+
 }
