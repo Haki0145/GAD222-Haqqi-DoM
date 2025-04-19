@@ -31,6 +31,11 @@ public class EvidenceBoardController : MonoBehaviour
             if (currentCombination[i] != correctCombination[i]) return;
         }
         Debug.Log("Correct combination! Proceed to next scene.");
+        Invoke("NextScene", 2f);
+    }
+
+    void NextScene() 
+    {
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
     }
 }
