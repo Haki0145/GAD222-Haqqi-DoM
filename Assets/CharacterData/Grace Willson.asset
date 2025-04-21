@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d694b963f44542b4983884cd9339c0b1, type: 3}
+  m_Name: Grace Willson
+  m_EditorClassIdentifier: 
+  characterName: Grace
+  expressions:
+  - name: blank
+    sprite: {fileID: -1538743381869289565, guid: d6fe5bf2fc1ce82448e578acf6818963, type: 3}
+  - name: blank talk
+    sprite: {fileID: 3825790721693982719, guid: 23430becd7dadb042b15f349c1bc1b90, type: 3}
+  - name: happy talk
+    sprite: {fileID: -1960995688151387652, guid: 9c32a82623ab204429f92f7c41dd2a59, type: 3}
+  - name: mad
+    sprite: {fileID: -5592737091282154014, guid: 515c6493ce25c5640915e8f6f74a6f00, type: 3}
+  - name: mad talk
+    sprite: {fileID: 4006797424106467491, guid: 3edddb886d61cb345ac6da073b46e51d, type: 3}
+  - name: sad
+    sprite: {fileID: 5552966332151534897, guid: e9a683c9741306b44bd12b53323aaf96, type: 3}
+  - name: happy
+    sprite: {fileID: 6008139065905307159, guid: 4406ef0e72208a64399cab903c21c432, type: 3}
+  appearsOnLeft: 0

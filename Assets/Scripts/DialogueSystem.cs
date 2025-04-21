@@ -70,7 +70,7 @@ public class DialogueSystem : MonoBehaviour
 
         Dialogue.DialogueLine line = dialogueLines.Dequeue();
         nameText.text = line.speakerName;
-        GetComponent<CharacterDisplay>().ShowCharacter(line.speakerName); 
+        GetComponent<CharacterDisplay>().ShowCharacter(line.speakerName, line.expression);
         currentSentence = line.sentence;
         StopTyping();
         typingCoroutine = StartCoroutine(TypeSentence(currentSentence));

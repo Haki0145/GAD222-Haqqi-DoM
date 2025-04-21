@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d694b963f44542b4983884cd9339c0b1, type: 3}
+  m_Name: Belle Lawrence(Right)
+  m_EditorClassIdentifier: 
+  characterName: Belle(Right)
+  expressions:
+  - name: happy talk
+    sprite: {fileID: -7802996104064843399, guid: 644c7bedba31cf844ae2b5edfadda209, type: 3}
+  - name: sad
+    sprite: {fileID: 2051099039827974193, guid: 458610f1f47b7f240b76d99be2b85174, type: 3}
+  - name: happy
+    sprite: {fileID: -2016934607463868485, guid: bf093a968e7749540bd8553b4b5e879c, type: 3}
+  - name: sad talk
+    sprite: {fileID: 4234596854525568207, guid: 70e35269a648676409323792d48b8fd8, type: 3}
+  appearsOnLeft: 0

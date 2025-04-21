@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d694b963f44542b4983884cd9339c0b1, type: 3}
+  m_Name: Sophie Lawrence(Left))
+  m_EditorClassIdentifier: 
+  characterName: Sophie
+  expressions:
+  - name: angry
+    sprite: {fileID: -9159290874093414076, guid: a29a4857f538d074aba89efa076739ad, type: 3}
+  - name: angry talking
+    sprite: {fileID: -5195090573795670862, guid: 78129e09eda43604c94277259016936e, type: 3}
+  - name: happy
+    sprite: {fileID: 7310106549624368661, guid: b50a080e0be22304c872ff2810ea7145, type: 3}
+  - name: happy talking
+    sprite: {fileID: 6324252463057217419, guid: f10b309738f493b4086414e28f358596, type: 3}
+  - name: sad
+    sprite: {fileID: 7868689158925991191, guid: f6fe0602355f71d4e8cf1305e981491b, type: 3}
+  - name: sad nervous
+    sprite: {fileID: 580109683845521526, guid: 0f5dae393d6abb84bba73eac8d6d92a4, type: 3}
+  appearsOnLeft: 1

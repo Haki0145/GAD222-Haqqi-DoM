@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d694b963f44542b4983884cd9339c0b1, type: 3}
+  m_Name: Rebecca
+  m_EditorClassIdentifier: 
+  characterName: Rebecca
+  expressions:
+  - name: blank
+    sprite: {fileID: 3822393638883174582, guid: 65e7ef1e88cdc98408840ff0510e73c4, type: 3}
+  - name: blank talk
+    sprite: {fileID: 8727117226836733055, guid: 07c0e43b656194b44ba5705d4209fdaf, type: 3}
+  - name: cry
+    sprite: {fileID: 7686082172484977690, guid: 71b151c829547a341a4722b522b7dfb8, type: 3}
+  - name: mad
+    sprite: {fileID: -8199188883097075999, guid: d51c50e46cd11dd42b48cb74dfb32cc2, type: 3}
+  - name: mad talk
+    sprite: {fileID: 127300070791632181, guid: 9d4290b7abb62fd4ea8f5641f5d89bcd, type: 3}
+  - name: sad
+    sprite: {fileID: 1394104465531004539, guid: b0416e6f576c5284882a9a5a60695601, type: 3}
+  - name: sad talk
+    sprite: {fileID: 4300446784089878839, guid: 6d1b2bdffb496e645bf3a2c84521c571, type: 3}
+  - name: shock
+    sprite: {fileID: -412117902131590917, guid: 0dc0737b2c7af8d49aeb94605aef8fb1, type: 3}
+  - name: shock talk
+    sprite: {fileID: 3001554076456664514, guid: ca324e4d133695548be357f98341f985, type: 3}
+  appearsOnLeft: 0

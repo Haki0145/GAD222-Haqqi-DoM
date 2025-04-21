@@ -7,7 +7,7 @@ public class CharacterDisplay : MonoBehaviour
     public Image rightCharacterImage;
     public CharacterData[] characterDatas;
 
-    public void ShowCharacter(string speakerName)
+    public void ShowCharacter(string speakerName, string expression = "default")
     {
         leftCharacterImage.gameObject.SetActive(false);
         rightCharacterImage.gameObject.SetActive(false);
@@ -16,18 +16,31 @@ public class CharacterDisplay : MonoBehaviour
         {
             if (data.characterName == speakerName)
             {
+                Sprite expressionSprite = GetExpressionSprite(data, expression);
                 if (data.appearsOnLeft)
                 {
-                    leftCharacterImage.sprite = data.characterSprite;
+                    leftCharacterImage.sprite = expressionSprite;
                     leftCharacterImage.gameObject.SetActive(true);
                 }
                 else
                 {
-                    rightCharacterImage.sprite = data.characterSprite;
+                    rightCharacterImage.sprite = expressionSprite;
                     rightCharacterImage.gameObject.SetActive(true);
                 }
                 return;
             }
         }
+    }
+
+    private Sprite GetExpressionSprite(CharacterData data, string expressionName)
+    {
+        foreach (CharacterData.Expression exp in data.expressions)
+        {
+            if (exp.name.ToLower() == expressionName.ToLower())
+            {
+                return exp.sprite;
+            }
+        }
+        return data.expressions.Length > 0 ? data.expressions[0].sprite : null;
     }
 }
