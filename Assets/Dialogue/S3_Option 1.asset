@@ -15,49 +15,70 @@ MonoBehaviour:
   dialogueLines:
   - speakerName: Spade
     sentence: "\u201CEh\u2026screw it.\u201D\r\n"
+    expression: 
   - speakerName: 
     sentence: Without hesitating, Spade started running towards them and screamed
       as if he was being chased.
+    expression: 
   - speakerName: Spade
     sentence: " \u201CAAAAHHHH\u201D\r\n"
+    expression: 
   - speakerName: Spade
     sentence: "\u201CIF I STOP RUNNING, THESE DOGS ARE GOING TO BITE ME!!!\u201D"
+    expression: 
   - speakerName: Kid 1
     sentence: " \u201CWha- WHAT?!\u201D\r"
+    expression: 
   - speakerName: Kid 2
     sentence: "\u201COh man, RUN!!\u201D\r\n"
+    expression: 
   - speakerName: 
     sentence: As the two kids start running, one of them dropped the object that
       they stole from the little girl.
+    expression: 
   - speakerName: 
     sentence: "Upon closer inspection, it happened to be\u2026\r\n"
+    expression: 
   - speakerName: Spade
     sentence: " \"A pebble? \u201D\r\n"
+    expression: 
   - speakerName: ???
     sentence: " \u201C Roxy!\u201D\r\n"
+    expression: 
   - speakerName: ???
     sentence: "\u201CThank you mister for saving my pet rock.\u201D\r\n"
+    expression: 
   - speakerName: Spade
     sentence: "\u201CSure\u2026no problem kid?\u201D"
+    expression: 
   - speakerName: Spade
     sentence: "(Really\u2026a pebble? Guess getting a goldfish is too much take care
       of huh)"
+    expression: 
   - speakerName: 
     sentence: As he looked at the time, he remembered why he was running.
+    expression: 
   - speakerName: Spade
     sentence: "\u201CI'm gonna be late for my job. Here's your pet. Gotta go. Bye!!\u201D"
+    expression: 
   - speakerName: 
     sentence: As soon as he sprinted, his wallet fell out of his back pocket without
       notice.
+    expression: 
   - speakerName: ???
     sentence: '"Wait, your wallet!"'
+    expression: 
   - speakerName: 
     sentence: The little girl tries shouting out to the man. But he was gone in a
       flash.
+    expression: 
   - speakerName: 
     sentence: She then picked up the wallet and opened it to see any info she could
       return the wallet
+    expression: 
   - speakerName: 
     sentence: But then she noticed an old business card that piqued her interest.
+    expression: 
   - speakerName: ???
     sentence: '"Shuffle....Agency?"'
+    expression: 

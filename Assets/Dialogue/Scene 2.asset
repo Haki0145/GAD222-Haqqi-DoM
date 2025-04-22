@@ -13,15 +13,21 @@ MonoBehaviour:
   m_Name: Scene 2
   m_EditorClassIdentifier: 
   dialogueLines:
-  - speakerName: 
+  - speakerName: Nothing
     sentence: '*Rinnng*'
+    expression: Nothing
   - speakerName: Spade
     sentence: "\u201CH-huh? \u201D"
-  - speakerName: 
+    expression: blank
+  - speakerName: Nothing
     sentence: '*Click*'
+    expression: Nothing
   - speakerName: Spade
     sentence: " \u201C Sigh\u2026 when will that dream ever stop coming back?\u201D\r\n"
+    expression: blank
   - speakerName: Spade
     sentence: " \u201C ! \u201D\r\n"
+    expression: blank
   - speakerName: Spade
     sentence: " \u201CI'M GONNA BE LATE FOR MY SHIFT!\u201D\r\n"
+    expression: blank

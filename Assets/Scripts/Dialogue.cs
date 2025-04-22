@@ -9,7 +9,7 @@ public class Dialogue : ScriptableObject
         public string speakerName;
         [TextArea(3, 10)]
         public string sentence;
-        public string expression; // Add this field
+        public string expression;
     }
 
     public DialogueLine[] dialogueLines;

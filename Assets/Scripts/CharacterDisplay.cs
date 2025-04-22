@@ -9,6 +9,8 @@ public class CharacterDisplay : MonoBehaviour
 
     public void ShowCharacter(string speakerName, string expression = "default")
     {
+        Debug.Log($" Character Name: {speakerName}");
+        Debug.Log($" Expresion Name: {expression}");
         leftCharacterImage.gameObject.SetActive(false);
         rightCharacterImage.gameObject.SetActive(false);
 

@@ -279,6 +279,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Skip Button
       objectReference: {fileID: 0}
+    - target: {fileID: 4316134445484648985, guid: 23545ffdb03fb06438e16b61ae40d5f4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 4604041461267900161, guid: 23545ffdb03fb06438e16b61ae40d5f4, type: 3}
       propertyPath: m_Pivot.x
       value: 0.49999997
@@ -369,108 +373,6 @@ RectTransform:
   m_CorrespondingSourceObject: {fileID: 4604041461267900161, guid: 23545ffdb03fb06438e16b61ae40d5f4, type: 3}
   m_PrefabInstance: {fileID: 636138955}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &636138957 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 1596972773271518290, guid: 23545ffdb03fb06438e16b61ae40d5f4, type: 3}
-  m_PrefabInstance: {fileID: 636138955}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!1001 &669601292
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    serializedVersion: 3
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 2652104546024703402, guid: eb683d706937f064882f38bb95cdb76c, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 337.31012
-      objectReference: {fileID: 0}
-    - target: {fileID: 2652104546024703402, guid: eb683d706937f064882f38bb95cdb76c, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 167.29485
-      objectReference: {fileID: 0}
-    - target: {fileID: 2652104546024703402, guid: eb683d706937f064882f38bb95cdb76c, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -0.9568574
-      objectReference: {fileID: 0}
-    - target: {fileID: 2652104546024703402, guid: eb683d706937f064882f38bb95cdb76c, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 2652104546024703402, guid: eb683d706937f064882f38bb95cdb76c, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 2652104546024703402, guid: eb683d706937f064882f38bb95cdb76c, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 2652104546024703402, guid: eb683d706937f064882f38bb95cdb76c, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 2652104546024703402, guid: eb683d706937f064882f38bb95cdb76c, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 2652104546024703402, guid: eb683d706937f064882f38bb95cdb76c, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 2652104546024703402, guid: eb683d706937f064882f38bb95cdb76c, type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4902366903203124436, guid: eb683d706937f064882f38bb95cdb76c, type: 3}
-      propertyPath: m_Name
-      value: Skip Manager
-      objectReference: {fileID: 0}
-    - target: {fileID: 8983726672522595322, guid: eb683d706937f064882f38bb95cdb76c, type: 3}
-      propertyPath: skipButton
-      value: 
-      objectReference: {fileID: 636138957}
-    - target: {fileID: 8983726672522595322, guid: eb683d706937f064882f38bb95cdb76c, type: 3}
-      propertyPath: summaryText
-      value: 
-      objectReference: {fileID: 1020752769}
-    - target: {fileID: 8983726672522595322, guid: eb683d706937f064882f38bb95cdb76c, type: 3}
-      propertyPath: summaryPanel
-      value: 
-      objectReference: {fileID: 2559068540179525860}
-    - target: {fileID: 8983726672522595322, guid: eb683d706937f064882f38bb95cdb76c, type: 3}
-      propertyPath: confirmSkipButton
-      value: 
-      objectReference: {fileID: 1020752767}
-    - target: {fileID: 8983726672522595322, guid: eb683d706937f064882f38bb95cdb76c, type: 3}
-      propertyPath: summaries.Array.size
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 8983726672522595322, guid: eb683d706937f064882f38bb95cdb76c, type: 3}
-      propertyPath: skipScenes.Array.size
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 8983726672522595322, guid: eb683d706937f064882f38bb95cdb76c, type: 3}
-      propertyPath: 'summaries.Array.data[0]'
-      value: After spade finishes his work, he realised he last his wallet. Upon
-        seraching it, the little girl before founds his wallet but before returning
-        it, wants to hire him to investigate her sisters disappearence
-      objectReference: {fileID: 0}
-    - target: {fileID: 8983726672522595322, guid: eb683d706937f064882f38bb95cdb76c, type: 3}
-      propertyPath: 'skipScenes.Array.data[0]'
-      value: Scene 5
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
-    m_AddedGameObjects: []
-    m_AddedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: eb683d706937f064882f38bb95cdb76c, type: 3}
 --- !u!1001 &1020752766
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -568,33 +470,11 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 241bb20e2b3a5ee4bbbf4f6cf0adc57a, type: 3}
---- !u!114 &1020752767 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 8823210589188868649, guid: 241bb20e2b3a5ee4bbbf4f6cf0adc57a, type: 3}
-  m_PrefabInstance: {fileID: 1020752766}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!224 &1020752768 stripped
 RectTransform:
   m_CorrespondingSourceObject: {fileID: 5239241351249821603, guid: 241bb20e2b3a5ee4bbbf4f6cf0adc57a, type: 3}
   m_PrefabInstance: {fileID: 1020752766}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &1020752769 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 1023955171999487822, guid: 241bb20e2b3a5ee4bbbf4f6cf0adc57a, type: 3}
-  m_PrefabInstance: {fileID: 1020752766}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1001 &1214896198
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -892,4 +772,3 @@ SceneRoots:
   - {fileID: 436410456}
   - {fileID: 1214896198}
   - {fileID: 344021501}
-  - {fileID: 669601292}
