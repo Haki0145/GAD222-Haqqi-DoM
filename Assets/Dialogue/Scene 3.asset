@@ -17,24 +17,30 @@ MonoBehaviour:
     sentence: 'Ranpo City
 
 '
+    expression: Nothing
   - speakerName: 
     sentence: 'A bustling place filled with people with many different stories.
 
 '
+    expression: Nothing
   - speakerName: 
     sentence: "Some happy, \r\n\r\n"
+    expression: Nothing
   - speakerName: 
     sentence: 'Some sad,
 
 
 
 '
+    expression: Nothing
   - speakerName: 
     sentence: 'Some that are amazing,
 
 '
+    expression: Nothing
   - speakerName: 
     sentence: Some that are boring.
+    expression: Nothing
   - speakerName: 
     sentence: 'But for now, lets focus on a certain young man
 
@@ -42,28 +48,40 @@ MonoBehaviour:
       to ignore the past
 
       Faces a dilemma that could change his future.'
+    expression: Nothing
   - speakerName: 
     sentence: This is a story of dreams and mystery and how people can sometimes
       be shuffled in the wrong or right deck.
+    expression: Nothing
   - speakerName: Spade
     sentence: '*Huff puff, huff puff*'
+    expression: sad
   - speakerName: Spade
     sentence: (If I keep running I should be able to catch up the bus).
+    expression: sad
   - speakerName: ???
     sentence: "\u201CHey, give it back, my sister gave it to me!\u201D"
+    expression: Nothing
   - speakerName: Spade
     sentence: '"?"'
+    expression: mad
   - speakerName: 
     sentence: As he runs to the station, he notices two kids bullying a little girl.
+    expression: Nothing
   - speakerName: Kid 1
     sentence: "\u201CHahaha\u201D"
+    expression: 1
   - speakerName: Kid 1
     sentence: "\u201COr what?\u201D "
+    expression: 1
   - speakerName: Kid 2
     sentence: "\u201CYour sister isn\u2019t here to help\u2026so go ahead, try reaching
       it with your tiny toes.\u201D"
+    expression: 2
   - speakerName: Spade
     sentence: "(Those brats\u2026picking on someone smaller than them early in the
       morning)"
+    expression: mad
   - speakerName: Spade
     sentence: "(Should I help her? But I\u2019m running late)"
+    expression: mad

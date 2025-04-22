@@ -20,10 +20,10 @@ MonoBehaviour:
     sprite: {fileID: -1986191315229033623, guid: d2c07b6744bc64a49bd471d30f8513b1, type: 3}
   - name: mad
     sprite: {fileID: 5645556606071664722, guid: 6406c2e1aa7c84946b4f77f8b46dc265, type: 3}
-  - name: more suprised
+  - name: shock talk
     sprite: {fileID: -8006297878529620507, guid: 2e9a02a811e4c5242bb488cbbc1f2a67, type: 3}
   - name: sad
     sprite: {fileID: 8718473286194983080, guid: b9b345c306662334e9e76258a5daec4a, type: 3}
-  - name: suprise
+  - name: shock
     sprite: {fileID: 7710300960468797033, guid: 3362709d251cb844bbfc7c16c52511a9, type: 3}
   appearsOnLeft: 1
