@@ -10,6 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 2764035934155465640}
   - component: {fileID: 1177957671658915453}
+  - component: {fileID: 9089813499646552176}
   m_Layer: 0
   m_Name: Dialogue Manager
   m_TagString: Untagged
@@ -56,4 +57,18 @@ MonoBehaviour:
   choice2Dialogue: {fileID: 0}
   choice1Scene: 
   choice2Scene: 
-  skipSystem: {fileID: 0}
+--- !u!114 &9089813499646552176
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7190661455404912836}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d288453c8acccde4babb430b138f6ae2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  leftCharacterImage: {fileID: 0}
+  rightCharacterImage: {fileID: 0}
+  characterDatas: []

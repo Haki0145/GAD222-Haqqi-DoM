@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d694b963f44542b4983884cd9339c0b1, type: 3}
   m_Name: Belle Lawrence(Left)
   m_EditorClassIdentifier: 
-  characterName: 
+  characterName: Belle
   expressions:
   - name: happy
     sprite: {fileID: -2456859693741158573, guid: 466c5d301ffae7847bd8a3fbec82ae5a, type: 3}
