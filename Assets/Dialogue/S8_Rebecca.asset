@@ -1,0 +1,242 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 01ea6a1906782044093f8e12998c08e5, type: 3}
+  m_Name: S8_Rebecca
+  m_EditorClassIdentifier: 
+  dialogueLines:
+  - speakerName: 
+    sentence: '*Ding dong*
+
+'
+    expression: Nothing
+  - speakerName: 
+    sentence: "He rings the doorbell of Rebeca\u2019s house hoping to interrogate
+      her\r\n"
+    expression: Nothing
+  - speakerName: 
+    sentence: "Although they\u2019re opposite in terms of grades and personality.\r\n"
+    expression: Nothing
+  - speakerName: 
+    sentence: 'They happen to hangout a lot before, during and after school.
+
+'
+    expression: Nothing
+  - speakerName: 
+    sentence: "If anyone knows what happened to her, it\u2019s got to be her."
+    expression: Nothing
+  - speakerName: Rebecca
+    sentence: '*Door opens*
+
+'
+    expression: sad
+  - speakerName: Rebecca
+    sentence: H-hello?
+    expression: sad talk
+  - speakerName: Spade
+    sentence: Are you Rebecaa Henderson?
+    expression: blank
+  - speakerName: Rebecca
+    sentence: Yes?
+    expression: sad talk
+  - speakerName: Spade
+    sentence: My name is Spade Soles, private investigator
+    expression: blank
+  - speakerName: Spade
+    sentence: My name is Spade Soles, private investigator
+    expression: blank
+  - speakerName: Spade
+    sentence: "I\u2019m here to investi-"
+    expression: blank
+  - speakerName: 
+    sentence: 'Before Spade could continue introducing himself, she tries to close
+      the door but Spade stops it with his leg.
+
+'
+    expression: Nothing
+  - speakerName: Spade
+    sentence: 'Wait! '
+    expression: shock talk
+  - speakerName: Rebecca
+    sentence: Please leave me alone.
+    expression: sad talk
+  - speakerName: Rebecca
+    sentence: My friends disappearence is not something you can proft off.
+    expression: mad talk
+  - speakerName: Spade
+    sentence: Hold on a second.
+    expression: shock talk
+  - speakerName: Spade
+    sentence: I've been hired by Sophie to find her sister.
+    expression: mad
+  - speakerName: Rebecca
+    sentence: Sophie?
+    expression: mad talk
+  - speakerName: 
+    sentence: She then loosen up the door for Spade.
+    expression: Nothing
+  - speakerName: Rebecca
+    sentence: How do I know your not lying?
+    expression: 'mad '
+  - speakerName: Spade
+    sentence: I'm not... because I made a pinky promise to her.
+    expression: blank
+  - speakerName: Spade
+    sentence: And I intend to keep it.
+    expression: mad
+  - speakerName: Rebecca
+    sentence: ...
+    expression: sad
+  - speakerName: Rebecca
+    sentence: Alright... I trsut you
+    expression: sad talk
+  - speakerName: 
+    sentence: 3 minutes pass
+    expression: Nothing
+  - speakerName: 
+    sentence: And so far, Spade required more information about the school festival
+      and her involement
+    expression: Nothing
+  - speakerName: 
+    sentence: She and Belle participated a ballet competition and started training
+      for it before ut started
+    expression: Nothing
+  - speakerName: 
+    sentence: In the end, they won just with a few points infront of the second team
+    expression: Nothing
+  - speakerName: 
+    sentence: And later on was aproached by a fiigure
+    expression: Nothing
+  - speakerName: Rebecca
+    sentence: Yes...She's one of the greatest ballet dancers of all time
+    expression: sad talk
+  - speakerName: Rebecca
+    sentence: She even praised Belles performance and decided to recruit her for
+      her next play
+    expression: sad
+  - speakerName: Spade
+    sentence: ...
+    expression: blank
+  - speakerName: Spade
+    sentence: What about you?
+    expression: blank
+  - speakerName: Rebecca
+    sentence: ...
+    expression: sad
+  - speakerName: Rebecca
+    sentence: She...thought I was holding Belle back and didn't want to include me
+      in.
+    expression: sad talk
+  - speakerName: Rebecca
+    sentence: Belle tried to defend me but eventually she already made up her mind
+    expression: sad talk
+  - speakerName: 
+    sentence: Her eyes pointing down to the ground while her eyes became more wet
+      then usual
+    expression: Nothing
+  - speakerName: 
+    sentence: Her eyes pointing down to the ground while her eyes became more wet
+      then usual
+    expression: Nothing
+  - speakerName: 
+    sentence: It was clear that this subject is a bit sensitive to her
+    expression: Nothing
+  - speakerName: Spade
+    sentence: 'Yeah I think I''m going to stop there '
+    expression: sad
+  - speakerName: Spade
+    sentence: But one last question
+    expression: ' blank'
+  - speakerName: Spade
+    sentence: Do you believe Ryan has anything to do with Belles disapearence?
+    expression: ' blank'
+  - speakerName: Rebecca
+    sentence: Ryan? Of course not.
+    expression: mad talk
+  - speakerName: Rebecca
+    sentence: She loves Belle.
+    expression: mad talk
+  - speakerName: Rebecca
+    sentence: He even confessed his feelings to her
+    expression: mad talk
+  - speakerName: Rebecca
+    sentence: And he is a respectable and honest boy despite his scary figure
+    expression: mad talk
+  - speakerName: Rebecca
+    sentence: He even takes care of his plants.
+    expression: mad talk
+  - speakerName: Spade
+    sentence: How do you know that?
+    expression: sad
+  - speakerName: Rebecca
+    sentence: I sometimes go to his house and help him with his garden and studies.
+    expression: blank
+  - speakerName: Rebecca
+    sentence: I sometimes go to his house and help him with his garden and studies.
+    expression: blank
+  - speakerName: Rebecca
+    sentence: He's really a nice guy.
+    expression: blank
+  - speakerName: 
+    sentence: Spade then noticed how much she's praising the boy and how she started
+      to smile a bit.
+    expression: Nothing
+  - speakerName: 
+    sentence: Although just a hunch, he suspects this lady likes Ryan a lot.
+    expression: Nothing
+  - speakerName: 
+    sentence: Eventough information states she only talks to Belle only
+    expression: Nothing
+  - speakerName: Spade
+    sentence: ...
+    expression: blank
+  - speakerName: Spade
+    sentence: Have you been close to Ryan recently?
+    expression: blank
+  - speakerName: Rebecca
+    sentence: Yes. Why do you ask?
+    expression: sad talk
+  - speakerName: Spade
+    sentence: No reason. Anyways, thanks for taking the time to answer your questions
+    expression: happy
+  - speakerName: Spade
+    sentence: Here's my card if you have any more-
+    expression: happy
+  - speakerName: Spade
+    sentence: HACHOO!!!
+    expression: shock talk
+  - speakerName: 
+    sentence: 'Spade laid out a load sneeze as he notice something rubbing on his '
+    expression: 
+  - speakerName: Whiskers
+    sentence: Meow
+    expression: 
+  - speakerName: Rebecca
+    sentence: Im sorry about my cat. I hope your not allergic
+    expression: sad
+  - speakerName: Rebecca
+    sentence: Im sorry about my cat. I hope your not allergic
+    expression: sad
+  - speakerName: Spade
+    sentence: No it's fine, I'll be taking my leave now.
+    expression: happy
+  - speakerName: Spade
+    sentence: No it's fine, I'll be taking my leave now.
+    expression: happy
+  - speakerName: Spade
+    sentence: He then walks away from the house to his next destination
+    expression: happy
+  - speakerName: Spade
+    sentence: (Alright, with this it's time for me to investigate the next place)
+    expression: blank
+  - speakerName: Spade
+    sentence: (Ranpo Academy)
+    expression: blank

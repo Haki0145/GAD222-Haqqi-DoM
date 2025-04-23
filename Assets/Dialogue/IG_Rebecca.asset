@@ -15,3 +15,4 @@ MonoBehaviour:
   dialogueLines:
   - speakerName: Spade
     sentence: '"I think its time for me to inetrogate Rebecca"'
+    expression: mad
