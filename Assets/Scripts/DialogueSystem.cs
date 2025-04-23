@@ -28,6 +28,8 @@ public class DialogueSystem : MonoBehaviour
     private bool isTyping = false;
     private string currentSentence;
 
+    
+
     void Start()
     {
         dialogueLines = new Queue<Dialogue.DialogueLine>();
@@ -44,8 +46,7 @@ public class DialogueSystem : MonoBehaviour
 
         choicePanel.SetActive(false);
 
-        choice1Button.onClick.AddListener(() => OnChoiceSelected(choice1Dialogue, choice1Scene));
-        choice2Button.onClick.AddListener(() => OnChoiceSelected(choice2Dialogue, choice2Scene));
+        
     }
 
     public void StartDialogue(Dialogue dialogue)
@@ -178,5 +179,16 @@ public class DialogueSystem : MonoBehaviour
         }
     }
 
+    public void ChoiceSelected(int choice)
+    {
+        if(choice == 1)
+        {
+            OnChoiceSelected(choice1Dialogue, choice1Scene);
+        }
+        else if (choice == 2)
+        {
+            OnChoiceSelected(choice2Dialogue, choice2Scene);
+        }
+    }
 
 }

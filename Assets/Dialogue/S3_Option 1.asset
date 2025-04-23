@@ -15,23 +15,23 @@ MonoBehaviour:
   dialogueLines:
   - speakerName: Spade
     sentence: "\u201CEh\u2026screw it.\u201D\r\n"
-    expression: 
+    expression: blank
   - speakerName: 
     sentence: Without hesitating, Spade started running towards them and screamed
       as if he was being chased.
     expression: 
   - speakerName: Spade
     sentence: " \u201CAAAAHHHH\u201D\r\n"
-    expression: 
+    expression: shock talk
   - speakerName: Spade
     sentence: "\u201CIF I STOP RUNNING, THESE DOGS ARE GOING TO BITE ME!!!\u201D"
-    expression: 
+    expression: shock talk
   - speakerName: Kid 1
     sentence: " \u201CWha- WHAT?!\u201D\r"
-    expression: 
+    expression: 1
   - speakerName: Kid 2
     sentence: "\u201COh man, RUN!!\u201D\r\n"
-    expression: 
+    expression: 2
   - speakerName: 
     sentence: As the two kids start running, one of them dropped the object that
       they stole from the little girl.
@@ -41,33 +41,33 @@ MonoBehaviour:
     expression: 
   - speakerName: Spade
     sentence: " \"A pebble? \u201D\r\n"
-    expression: 
+    expression: mad
   - speakerName: ???
     sentence: " \u201C Roxy!\u201D\r\n"
-    expression: 
+    expression: happy talk
   - speakerName: ???
     sentence: "\u201CThank you mister for saving my pet rock.\u201D\r\n"
-    expression: 
+    expression: happy talk
   - speakerName: Spade
     sentence: "\u201CSure\u2026no problem kid?\u201D"
-    expression: 
+    expression: sad
   - speakerName: Spade
     sentence: "(Really\u2026a pebble? Guess getting a goldfish is too much take care
       of huh)"
-    expression: 
+    expression: sad
   - speakerName: 
     sentence: As he looked at the time, he remembered why he was running.
     expression: 
   - speakerName: Spade
     sentence: "\u201CI'm gonna be late for my job. Here's your pet. Gotta go. Bye!!\u201D"
-    expression: 
+    expression: shock talk
   - speakerName: 
     sentence: As soon as he sprinted, his wallet fell out of his back pocket without
       notice.
     expression: 
   - speakerName: ???
     sentence: '"Wait, your wallet!"'
-    expression: 
+    expression: sad talk
   - speakerName: 
     sentence: The little girl tries shouting out to the man. But he was gone in a
       flash.
@@ -81,4 +81,4 @@ MonoBehaviour:
     expression: 
   - speakerName: ???
     sentence: '"Shuffle....Agency?"'
-    expression: 
+    expression: sad

@@ -17,17 +17,16 @@ public class SkipSystem : MonoBehaviour
 
     void Start()
     {
-        skipButton.onClick.AddListener(ShowSummary);
-        confirmSkipButton.onClick.AddListener(SkipToNextScene);
+        
     }
 
-    void ShowSummary()
+    public void ShowSummary()
     {
         summaryPanel.SetActive(true);
         summaryText.text = summaries[currentSection];
     }
 
-    void SkipToNextScene()
+    public void SkipToNextScene()
     {
         summaryPanel.SetActive(false);
 

@@ -12,6 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d694b963f44542b4983884cd9339c0b1, type: 3}
   m_Name: Kid 2
   m_EditorClassIdentifier: 
-  characterName: 
-  expressions: []
+  characterName: Kid 2
+  expressions:
+  - name: 2
+    sprite: {fileID: -6842925340061106049, guid: 8cb994ab028fcde42b8e841cdeb1fd05, type: 3}
   appearsOnLeft: 0

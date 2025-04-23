@@ -15,72 +15,103 @@ MonoBehaviour:
   dialogueLines:
   - speakerName: Spade
     sentence: '"Your change is $4.50."'
+    expression: happy
   - speakerName: Spade
     sentence: '"Thank you and have a nice day."'
+    expression: happy
   - speakerName: 
     sentence: After the customer left, Spade gave out a sigh of relief.
+    expression: Nothing
   - speakerName: Spade
     sentence: '"Even though I was late for my job,"'
+    expression: blank
   - speakerName: Spade
     sentence: '"it was a good thing the manager was chill about it."'
+    expression: happy
   - speakerName: 
     sentence: Spade checks his watch to see if his shift is about to end.
+    expression: nothing
   - speakerName: Spade
     sentence: '"15 more minutes and I''m home free."'
+    expression: blank
   - speakerName: Spade
     sentence: '"I wonder if my favourite show is on..."'
+    expression: blank
   - speakerName: 
     sentence: He grabs the the TV remotes and points it to the small TV in the corner
       of the store.
+    expression: nothing
   - speakerName: 
     sentence: '*Click*'
+    expression: Nothing
   - speakerName: News Reporter
     sentence: The case of the missing student, Belle Lawrence, continues on as police
       keep investigating their whereabouts.
+    expression: Nothing
   - speakerName: News Reporter
     sentence: She was last seen leaving school to go back home.
+    expression: Nothing
   - speakerName: News Reporter
     sentence: 'Unbeknownst to anyone, this would be the last time anyone saw her. '
+    expression: Nothing
   - speakerName: News Reporter
     sentence: 'The parents of the missing student continue to worry about her safety
       as they fear she might be dead.
 
 '
+    expression: Nothing
   - speakerName: News Reporter
     sentence: 'The investigation team has been spread thin due to the upcoming parade
       happening next week. '
+    expression: Nothing
   - speakerName: News Reporter
     sentence: Although evidence of the case has been hard to find, her loved ones
       are praying for her wellbeing.
+    expression: Nothing
   - speakerName: News Reporter
     sentence: 'In other news-
 
 '
+    expression: Nothing
   - speakerName: Spade
     sentence: '*Click*'
+    expression: blank
   - speakerName: Spade
     sentence: (They still can't find her?)
+    expression: blank
   - speakerName: Spade
     sentence: (Poor kid...)
+    expression: sad
   - speakerName: Spade
     sentence: "(If the boss were here\u2026)"
+    expression: sad
   - speakerName: Spade
     sentence: (...)
+    expression: sad
   - speakerName: Spade
     sentence: "(I\u2019m sure the RPD can handle this)"
+    expression: blank
   - speakerName: Spade
     sentence: (I wonder if Grace is still there?)
+    expression: blank
   - speakerName: Spade
     sentence: ...
+    expression: 
   - speakerName: Spade
     sentence: '"Well...I think it''s almost time to clock out."'
+    expression: happy
   - speakerName: Spade
     sentence: '"I hope I have enough money for-"'
+    expression: happy
   - speakerName: 
     sentence: When he touched his left back pocket,
+    expression: Nothing
   - speakerName: 
     sentence: his soul drop to the ground with a pale face.
+    expression: Nothing
   - speakerName: 
     sentence: He patted until he realised...
+    expression: Nothing
   - speakerName: Spade
     sentence: '"M...my...WALLET IS GONE!!!"'
+    expression: shock

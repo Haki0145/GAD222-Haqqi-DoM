@@ -15,107 +15,158 @@ MonoBehaviour:
   dialogueLines:
   - speakerName: 
     sentence: 'For the next 2 hours, he kept searching for his missing wallet. '
+    expression: Nothing
   - speakerName: 
     sentence: But to no avail, he had trouble finding it.
+    expression: Nothing
   - speakerName: Spade
     sentence: '"Sigh... how could I lose my wallet..."'
+    expression: blank
   - speakerName: Spade
     sentence: '"Me... a responsible adult...lost it."'
+    expression: blank
   - speakerName: Spade
     sentence: '"Sigh... I guess i can go to the police station if they''ve found
       it"'
+    expression: blank
   - speakerName: ???
     sentence: '"Mister!"'
+    expression: nothing
   - speakerName: Spade
     sentence: '"?"'
+    expression: 
   - speakerName: 
     sentence: He heard a familiar voice shouting behind him.
+    expression: 
   - speakerName: 
     sentence: As he turned around, he saw the same little girl he helped from before.
+    expression: 
   - speakerName: 
     sentence: She waves at him with...
+    expression: 
   - speakerName: Spade
     sentence: '"My wallet!"'
+    expression: 
   - speakerName: ???
     sentence: '"You dropped this early this morning."'
+    expression: 
   - speakerName: ???
     sentence: '"Here!"'
+    expression: 
   - speakerName: 
     sentence: She gives the wallet back to Spade.
+    expression: 
   - speakerName: 
     sentence: '"Thank you so much!"'
+    expression: 
   - speakerName: 
     sentence: A little tear apears as he smiles.
+    expression: 
   - speakerName: Spade
     sentence: (I guess this is what you call good deed)
+    expression: 
   - speakerName: 'Spade '
     sentence: '"You really save my skin there."'
+    expression: 
   - speakerName: 'Spade '
     sentence: '"Well I gotta go... Thanks for finding it."'
+    expression: 
   - speakerName: ???
     sentence: '"Wait mister!"'
+    expression: 
   - speakerName: ???
     sentence: '"Before you go...I want to hire you."'
+    expression: 
   - speakerName: Spade
     sentence: '"Huh?"'
+    expression: 
   - speakerName: Spade
     sentence: '"Hire me?....for wh-"'
+    expression: 
   - speakerName: 
     sentence: As he turns around to look at her,
+    expression: 
   - speakerName: 
     sentence: The little girl shows the old business card Spade kept in his wallet.
+    expression: 
   - speakerName: Sophie Lawrence
     sentence: '"My name is Sophie Lawrence."'
+    expression: 
   - speakerName: Sophie Lawrence
     sentence: '"And I want to hire you..."'
+    expression: 
   - speakerName: Sophie Lawrence
     sentence: '"...Detective Spade Soles"'
+    expression: 
   - speakerName: Spade
     sentence: '"?!"'
+    expression: 
   - speakerName: Spade
     sentence: '"Lawrence...as in... "'
+    expression: 
   - speakerName: Sophie Lawrence
     sentence: '"That''s right... you probably watched the news."'
+    expression: 
   - speakerName: Sophie Lawrence
     sentence: '"My older sister, Belle, went missing a few days ago."'
+    expression: 
   - speakerName: Sophie Lawrence
     sentence: '"The police have been no help, my parents are worried and everyone
       thinks shes dead"'
+    expression: 
   - speakerName: Sophie Lawrence
     sentence: '"But now that I found a detective, sis can fin-""'
+    expression: 
   - speakerName: Spade
     sentence: '"I can''t help you kid."'
+    expression: 
   - speakerName: Sophie Lawrence
     sentence: '"?!"'
+    expression: 
   - speakerName: Spade
     sentence: '"Shuffle Agency has been dissolved years ago."'
+    expression: 
   - speakerName: Spade
     sentence: '"And I''m a retired rookie."'
+    expression: 
   - speakerName: Sophie Lawrence
     sentence: '"But why?"'
+    expression: 
   - speakerName: Spade
     sentence: '"...Its a long story"'
+    expression: 
   - speakerName: Spade
     sentence: '"The point is, it''s best for the police to handle this."'
+    expression: 
   - speakerName: Spade
     sentence: '"It''s better for the professionals to do this, so-"'
+    expression: 
   - speakerName: 
     sentence: Before he could say anything else, he then noticed little Sophie on
       the verge of crying.
+    expression: 
   - speakerName: Sophie Lawrence
     sentence: '"Mister Spade... There isn''t anything that I can do."'
+    expression: 
   - speakerName: Sophie Lawrence
     sentence: '"I keep pestering the police, I can''t comfort my parents..."'
+    expression: 
   - speakerName: Sophie Lawrence
     sentence: '"And worst of all, I can''t find my big sister."'
+    expression: 
   - speakerName: Sophie Lawrence
     sentence: '"But now I have a chance to find her with your help."'
+    expression: 
   - speakerName: Sophie Lawrence
     sentence: '"I beg of you...help me find my sister."'
+    expression: 
   - speakerName: Sophie Lawrence
     sentence: '"I''ll even give you all my pocket money to find her."'
+    expression: 
   - speakerName: 
     sentence: Her eyes filled with desperation while clutching both her hands together
       with little hope she had left.
+    expression: 
   - speakerName: 
     sentence: He thought long and hard and decided that he would...
+    expression: 

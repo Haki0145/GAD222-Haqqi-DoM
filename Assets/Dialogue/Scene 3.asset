@@ -61,7 +61,7 @@ MonoBehaviour:
     expression: sad
   - speakerName: ???
     sentence: "\u201CHey, give it back, my sister gave it to me!\u201D"
-    expression: Nothing
+    expression: angry talk
   - speakerName: Spade
     sentence: '"?"'
     expression: mad

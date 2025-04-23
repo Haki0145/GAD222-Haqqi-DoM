@@ -14,12 +14,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   characterName: Belle
   expressions:
-  - name: happy
+  - name: happy L
     sprite: {fileID: -2456859693741158573, guid: 466c5d301ffae7847bd8a3fbec82ae5a, type: 3}
-  - name: happy talk
+  - name: happy talk L
     sprite: {fileID: 0}
-  - name: sad
+  - name: sad L
     sprite: {fileID: -2029353452866850463, guid: 8524a6e490580bd4096f27bda1662968, type: 3}
-  - name: sad talk
+  - name: sad talk L
     sprite: {fileID: 6497009174271688090, guid: 1cbef3110e0d7b54eb918f022272e6c0, type: 3}
   appearsOnLeft: 1
