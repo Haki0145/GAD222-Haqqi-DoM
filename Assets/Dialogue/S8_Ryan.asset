@@ -1,0 +1,223 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 01ea6a1906782044093f8e12998c08e5, type: 3}
+  m_Name: S8_Ryan
+  m_EditorClassIdentifier: 
+  dialogueLines:
+  - speakerName: 
+    sentence: '*Ding dong*'
+    expression: Nothing
+  - speakerName: 
+    sentence: The next day, Spade arrives at Ryans house hopping to get more answers.
+    expression: Nothing
+  - speakerName: 
+    sentence: It has been speculation that he kidnaped Belle over a reject confession.
+    expression: Nothing
+  - speakerName: 
+    sentence: Although it's a basless rumour, it wouldn't hurt to check.
+    expression: Nothing
+  - speakerName: Spade
+    sentence: ...
+    expression: blank
+  - speakerName: 
+    sentence: '*Ding dong*'
+    expression: Nothing
+  - speakerName: Spade
+    sentence: ...
+    expression: blank
+  - speakerName: Spade
+    sentence: '*Ding dong ding dong*'
+    expression: blank
+  - speakerName: Spade
+    sentence: ...
+    expression: mad
+  - speakerName: 
+    sentence: '*Ding dong ding dong ding dong ding dong**'
+    expression: Nothing
+  - speakerName: 
+    sentence: '*Bang*'
+    expression: Nothing
+  - speakerName: 
+    sentence: Suddenly the door burst open and Spade being nearby got his face hit
+      by it.
+    expression: Nothing
+  - speakerName: Spade
+    sentence: OUCH
+    expression: shock talk
+  - speakerName: Ryan
+    sentence: I HEARD YOU THE FIRST TIME.
+    expression: mad talk
+  - speakerName: Ryan
+    sentence: '?'
+    expression: 'mad '
+  - speakerName: Ryan
+    sentence: Who are you?
+    expression: mad talk
+  - speakerName: Spade
+    sentence: My name is Spade Soles.
+    expression: blank
+  - speakerName: Spade
+    sentence: Im a new resisdent a few blocks down and I wanted to know-
+    expression: smile
+  - speakerName: Ryan
+    sentence: Stop. Your not going to fool me.
+    expression: blank
+  - speakerName: Ryan
+    sentence: You're here to interview me about Belle aren't you.
+    expression: mad
+  - speakerName: Spade
+    sentence: What? Sir I have no idea what your-
+    expression: smile
+  - speakerName: Spade
+    sentence: What? Sir I have no idea what your-
+    expression: smile
+  - speakerName: Ryan
+    sentence: ...
+    expression: annoyed
+  - speakerName: Spade
+    sentence: ...
+    expression: smile
+  - speakerName: Spade
+    sentence: Ok what gave it away?
+    expression: mad
+  - speakerName: Ryan
+    sentence: Your not the first person who tried to use that excuse to interview
+      me.
+    expression: annoyed talk
+  - speakerName: Ryan
+    sentence: Also your hat gave your identity away.
+    expression: annoyed talk
+  - speakerName: Ryan
+    sentence: Either way, get lost !
+    expression: mad talk
+  - speakerName: Ryan
+    sentence: I had nothing to do with it nor do I any reason to.
+    expression: mad talk
+  - speakerName: 
+    sentence: As Ryan was about to close the door, Spade spoke out in a serious tone.
+    expression: 
+  - speakerName: Spade
+    sentence: Sophie Lawrence has hired me to investigate this case!
+    expression: mad
+  - speakerName: Ryan
+    sentence: ...Sophie?
+    expression: blank
+  - speakerName: Ryan
+    sentence: Yes, I swore her a oinky promise and I intend to keep it.
+    expression: mad
+  - speakerName: Ryan
+    sentence: ...
+    expression: blank
+  - speakerName: Ryan
+    sentence: Well...alright
+    expression: blank
+  - speakerName: Ryan
+    sentence: I'll tell you what I know.
+    expression: blank
+  - speakerName: 
+    sentence: Minutes pass and so far...
+    expression: Nothing
+  - speakerName: 
+    sentence: Ryan's relationship with Belle was nothing more then just friends who
+      study together.
+    expression: Nothing
+  - speakerName: 
+    sentence: But in truth...
+    expression: Nothing
+  - speakerName: Spade
+    sentence: You like her?!
+    expression: Sad
+  - speakerName: Ryan
+    sentence: Yeah...Me asking her to help me with my studys.
+    expression: blank
+  - speakerName: Ryan
+    sentence: 'It was just an excuse to get clsoer to her '
+    expression: blank
+  - speakerName: Ryan
+    sentence: I thought my efforts were going to pay off during the festival.
+    expression: blank
+  - speakerName: Ryan
+    sentence: But she reject me in the end.
+    expression: blank
+  - speakerName: Spade
+    sentence: ?!
+    expression: mad
+  - speakerName: 
+    sentence: Spade then takes out the letter Sophie found in Belle's room.
+    expression: Nothing
+  - speakerName: Spade
+    sentence: Were you the one who gave her this letter?
+    expression: mad
+  - speakerName: Ryan
+    sentence: Yeah...
+    expression: blank
+  - speakerName: Ryan
+    sentence: Regardless, it didnt work. So i respected her wishes and stay as friends.
+    expression: blank
+  - speakerName: Ryan
+    sentence: 'But ever since she went missing, people started to speculate me and
+      Rebecca the ones responsible of it. '
+    expression: mad
+  - speakerName: Ryan
+    sentence: And It pisses me off because one, I'm not that petty to the point I
+      would consider hurting her
+    expression: mad talk
+  - speakerName: Ryan
+    sentence: And two, Rebecca has been friends woth her for a long time. Why would
+      she do anything to her?
+    expression: mad
+  - speakerName: Ryan
+    sentence: And two, Rebecca has been friends woth her for a long time. Why would
+      she do anything to her?
+    expression: mad
+  - speakerName: Spade
+    sentence: Wait wait wait wait wait... Back up.
+    expression: mad
+  - speakerName: Spade
+    sentence: Does anyone know about your confession to Belle?
+    expression: sad
+  - speakerName: Ryan
+    sentence: Well apart from Rebecca and Belle, no.
+    expression: mad
+  - speakerName: Spade
+    sentence: ...
+    expression: mad
+  - speakerName: Spade
+    sentence: Has Rebecca ever talk to you before?
+    expression: mad
+  - speakerName: Ryan
+    sentence: Yeah couple of times, she even helps me do gardening.
+    expression: mad
+  - speakerName: Spade
+    sentence: She even brings her cat along.
+    expression: happy
+  - speakerName: Spade
+    sentence: That thing has a bad habit of biting boxes, plants and papper.
+    expression: happy
+  - speakerName: Spade
+    sentence: Hmm...
+    expression: mad
+  - speakerName: Spade
+    sentence: Alright, thats all I need to ask from you. I'll be going now.
+    expression: blank
+  - speakerName: Spade
+    sentence: See ya
+    expression: happy
+  - speakerName: Spade
+    sentence: (Hmm...could he be the one?)
+    expression: blank
+  - speakerName: Spade
+    sentence: (I need more info and the next place should be..)
+    expression: blank
+  - speakerName: Spade
+    sentence: (I need more info and the next place should be..)
+    expression: blank
