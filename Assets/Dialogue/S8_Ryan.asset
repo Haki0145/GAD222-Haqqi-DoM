@@ -17,13 +17,13 @@ MonoBehaviour:
     sentence: '*Ding dong*'
     expression: Nothing
   - speakerName: 
-    sentence: The next day, Spade arrives at Ryans house hopping to get more answers.
+    sentence: The next day, Spade arrives at Ryan's house hoping to get more answers.
     expression: Nothing
   - speakerName: 
-    sentence: It has been speculation that he kidnaped Belle over a reject confession.
+    sentence: It has been speculated that he kidnapped Belle over a rejected confession.
     expression: Nothing
   - speakerName: 
-    sentence: Although it's a basless rumour, it wouldn't hurt to check.
+    sentence: Although it's a baseless rumour, it wouldn't hurt to check.
     expression: Nothing
   - speakerName: Spade
     sentence: ...
@@ -54,7 +54,7 @@ MonoBehaviour:
     sentence: OUCH
     expression: shock talk
   - speakerName: Ryan
-    sentence: I HEARD YOU THE FIRST TIME.
+    sentence: I HEARD YOU THE FIRST TIME!
     expression: mad talk
   - speakerName: Ryan
     sentence: '?'
@@ -66,19 +66,19 @@ MonoBehaviour:
     sentence: My name is Spade Soles.
     expression: blank
   - speakerName: Spade
-    sentence: Im a new resisdent a few blocks down and I wanted to know-
+    sentence: I'm a new resident a few blocks down and I wanted to know-
     expression: smile
   - speakerName: Ryan
-    sentence: Stop. Your not going to fool me.
+    sentence: Stop. You're not going to fool me.
     expression: blank
   - speakerName: Ryan
-    sentence: You're here to interview me about Belle aren't you.
+    sentence: You're here to interview me about Belle, aren't you?
     expression: mad
   - speakerName: Spade
-    sentence: What? Sir I have no idea what your-
+    sentence: What? Sir, I have no idea what you're-
     expression: smile
   - speakerName: Spade
-    sentence: What? Sir I have no idea what your-
+    sentence: What? Sir, I have no idea what you're-
     expression: smile
   - speakerName: Ryan
     sentence: ...
@@ -87,20 +87,20 @@ MonoBehaviour:
     sentence: ...
     expression: smile
   - speakerName: Spade
-    sentence: Ok what gave it away?
+    sentence: Ok, what gave it away?
     expression: mad
   - speakerName: Ryan
-    sentence: Your not the first person who tried to use that excuse to interview
+    sentence: You're not the first person who tried to use that excuse to interview
       me.
     expression: annoyed talk
   - speakerName: Ryan
-    sentence: Also your hat gave your identity away.
+    sentence: Also, your hat gave your identity away.
     expression: annoyed talk
   - speakerName: Ryan
-    sentence: Either way, get lost !
+    sentence: Either way, get lost!
     expression: mad talk
   - speakerName: Ryan
-    sentence: I had nothing to do with it nor do I any reason to.
+    sentence: I had nothing to do with it nor do I have any reason to.
     expression: mad talk
   - speakerName: 
     sentence: As Ryan was about to close the door, Spade spoke out in a serious tone.
@@ -112,22 +112,22 @@ MonoBehaviour:
     sentence: ...Sophie?
     expression: blank
   - speakerName: Ryan
-    sentence: Yes, I swore her a oinky promise and I intend to keep it.
+    sentence: Yes, I swore her a pinky promise and I intend to keep it.
     expression: mad
   - speakerName: Ryan
     sentence: ...
     expression: blank
   - speakerName: Ryan
-    sentence: Well...alright
+    sentence: Well... alright
     expression: blank
   - speakerName: Ryan
     sentence: I'll tell you what I know.
     expression: blank
   - speakerName: 
-    sentence: Minutes pass and so far...
+    sentence: Minutes passed and so far...
     expression: Nothing
   - speakerName: 
-    sentence: Ryan's relationship with Belle was nothing more then just friends who
+    sentence: Ryan's relationship with Belle was nothing more than just friends who
       study together.
     expression: Nothing
   - speakerName: 
@@ -137,16 +137,16 @@ MonoBehaviour:
     sentence: You like her?!
     expression: Sad
   - speakerName: Ryan
-    sentence: Yeah...Me asking her to help me with my studys.
+    sentence: Yeah... me asking her to help me with my studies.
     expression: blank
   - speakerName: Ryan
-    sentence: 'It was just an excuse to get clsoer to her '
+    sentence: 'It was just an excuse to get closer to her '
     expression: blank
   - speakerName: Ryan
     sentence: I thought my efforts were going to pay off during the festival.
     expression: blank
   - speakerName: Ryan
-    sentence: But she reject me in the end.
+    sentence: But she rejected me in the end.
     expression: blank
   - speakerName: Spade
     sentence: ?!
@@ -161,26 +161,26 @@ MonoBehaviour:
     sentence: Yeah...
     expression: blank
   - speakerName: Ryan
-    sentence: Regardless, it didnt work. So i respected her wishes and stay as friends.
+    sentence: Regardless, it didnt work. So I respected her wishes and stay as friends.
     expression: blank
   - speakerName: Ryan
     sentence: 'But ever since she went missing, people started to speculate me and
-      Rebecca the ones responsible of it. '
+      Rebecca were the ones responsible of it. '
     expression: mad
   - speakerName: Ryan
     sentence: And It pisses me off because one, I'm not that petty to the point I
-      would consider hurting her
+      would consider hurting her.
     expression: mad talk
   - speakerName: Ryan
-    sentence: And two, Rebecca has been friends woth her for a long time. Why would
+    sentence: And two, Rebecca has been friends with her for a long time. Why would
       she do anything to her?
     expression: mad
   - speakerName: Ryan
-    sentence: And two, Rebecca has been friends woth her for a long time. Why would
+    sentence: And two, Rebecca has been friends with her for a long time. Why would
       she do anything to her?
     expression: mad
   - speakerName: Spade
-    sentence: Wait wait wait wait wait... Back up.
+    sentence: Wait, wait, wait, wait, wait... Back up.
     expression: mad
   - speakerName: Spade
     sentence: Does anyone know about your confession to Belle?
@@ -192,7 +192,7 @@ MonoBehaviour:
     sentence: ...
     expression: mad
   - speakerName: Spade
-    sentence: Has Rebecca ever talk to you before?
+    sentence: Has Rebecca ever talked to you before?
     expression: mad
   - speakerName: Ryan
     sentence: Yeah couple of times, she even helps me do gardening.
@@ -219,5 +219,5 @@ MonoBehaviour:
     sentence: (I need more info and the next place should be..)
     expression: blank
   - speakerName: Spade
-    sentence: (Ranpo Academy !)
+    sentence: (Ranpo Academy!)
     expression: mad
