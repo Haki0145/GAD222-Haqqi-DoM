@@ -1,0 +1,246 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 01ea6a1906782044093f8e12998c08e5, type: 3}
+  m_Name: S9_Truth
+  m_EditorClassIdentifier: 
+  dialogueLines:
+  - speakerName: Spade
+    sentence: I was hired by Sophie Lawrence to find her sister
+    expression: mad
+  - speakerName: Spade
+    sentence: And I made a pinky promise to her
+    expression: mad
+  - speakerName: Grace
+    sentence: Belle little sister? Pinky promise?
+    expression: sad
+  - speakerName: Spade
+    sentence: Yeah. I intend to keep it.
+    expression: blank
+  - speakerName: Grace
+    sentence: But, she's 12. Therefore she can't exactly hire anyone.
+    expression: mad talk
+  - speakerName: Spade
+    sentence: Can you blame me? She needed somebody to help her find her sister.
+    expression: 'mad '
+  - speakerName: Grace
+    sentence: Yeah. And that somebody is me. I'm the leader for investigation team.
+    expression: 'mad '
+  - speakerName: Spade
+    sentence: So where's the rest of your team
+    expression: blank
+  - speakerName: Grace
+    sentence: ...
+    expression: blanke
+  - speakerName: Grace
+    sentence: Well... It's just me. Everyone's busy preparing for next weeks festival.
+    expression: blank
+  - speakerName: Spade
+    sentence: Ah... That's sad. Either way...
+    expression: sad
+  - speakerName: Spade
+    sentence: I'm here to collect any evidence that could help this case
+    expression: blank
+  - speakerName: Grace
+    sentence: You mean something liike this?
+    expression: blank
+  - speakerName: 
+    sentence: She the takes out a file containing all of the evidence collected in
+      this school
+    expression: Nothing
+  - speakerName: Grace
+    sentence: I'll give you this if you answer my next question.
+    expression: blank
+  - speakerName: Spade
+    sentence: That being?
+    expression: blank
+  - speakerName: Grace
+    sentence: Why did you retired?
+    expression: mad
+  - speakerName: Spade
+    sentence: ?!
+    expression: sad
+  - speakerName: Spade
+    sentence: That's irrelevant and personal you know.
+    expression: mad
+  - speakerName: Grace
+    sentence: We have been friends since kidergarden and we dreamed of becoming detectives.
+    expression: mad
+  - speakerName: Grace
+    sentence: We use to talk alot until you suddenly retired.
+    expression: mad talk
+  - speakerName: Grace
+    sentence: I know I could have investigate you on why you did that, but I believe...
+    expression: 'mad '
+  - speakerName: Grace
+    sentence: ... Its better if you tell me
+    expression: 'mad '
+  - speakerName: Spade
+    sentence: ...
+    expression: sad
+  - speakerName: Grace
+    sentence: ...
+    expression: mad
+  - speakerName: Spade
+    sentence: I...
+    expression: mad
+  - speakerName: Spade
+    sentence: ...was responsible for my bosses death.
+    expression: mad
+  - speakerName: Grace
+    sentence: What?
+    expression: sad talk
+  - speakerName: Spade
+    sentence: On the night of his last case. I was told not to follow him for it
+      was a dangerous one.
+    expression: 'sad '
+  - speakerName: Spade
+    sentence: But I ingnored it to proove my worth as a real private investigator.
+    expression: 'sad '
+  - speakerName: Spade
+    sentence: And the cost of it. My boss died protecting me.
+    expression: 'sad '
+  - speakerName: Grace
+    sentence: ...
+    expression: 'sad '
+  - speakerName: Grace
+    sentence: Why didn't you tell me about this?
+    expression: sad talk
+  - speakerName: Spade
+    sentence: I was a shame. For what I've done. He could've continued as a hard
+      boiled detective.
+    expression: 'sad '
+  - speakerName: Spade
+    sentence: 'But no. He''s dead because of me. '
+    expression: 'sad '
+  - speakerName: Spade
+    sentence: So I retired, so that I can never hurt anyone again as a private investigator.
+    expression: 'sad '
+  - speakerName: Grace
+    sentence: Then... why come back now?
+    expression: 'sad '
+  - speakerName: Spade
+    sentence: Because, I Sophie's loved one...
+    expression: 'sad '
+  - speakerName: Spade
+    sentence: ... was in danger. And I have the power to help help her.
+    expression: 'sad '
+  - speakerName: Spade
+    sentence: But really, i just didn't want her to loose her sister...
+    expression: 'sad '
+  - speakerName: Spade
+    sentence: ... the way I lost my boss
+    expression: 'sad '
+  - speakerName: Grace
+    sentence: ...
+    expression: 'sad '
+  - speakerName: Grace
+    sentence: Spade I-
+    expression: sad talk
+  - speakerName: Spade
+    sentence: I know you have a job to do and your going to arrest me.
+    expression: sad talk
+  - speakerName: Spade
+    sentence: I know you have a job to do and your going to arrest me.
+    expression: sad
+  - speakerName: Spade
+    sentence: But that's not going to stop me from solving this case.
+    expression: mad
+  - speakerName: Spade
+    sentence: And... I'm sorry that I didn't tell you this.
+    expression: happy talk
+  - speakerName: Grace
+    sentence: ...
+    expression: happy
+  - speakerName: Grace
+    sentence: Thats all I needed to hear.
+    expression: happy talk
+  - speakerName: Grace
+    sentence: Here.
+    expression: happy talk
+  - speakerName: 
+    sentence: She then gives the evidence to Spade.
+    expression: 
+  - speakerName: Spade
+    sentence: Really?!
+    expression: blank
+  - speakerName: Grace
+    sentence: I wanted the truth and an apology for making me worried about you.
+    expression: 'happy '
+  - speakerName: Spade
+    sentence: ...
+    expression: blank
+  - speakerName: Spade
+    sentence: Thank you Grace
+    expression: 'happy '
+  - speakerName: Grace
+    sentence: No problem, but I have anpther proposition.
+    expression: happy talk
+  - speakerName: Spade
+    sentence: What is it?
+    expression: happy
+  - speakerName: Grace
+    sentence: You and I are going to work together on this case.
+    expression: happy
+  - speakerName: Spade
+    sentence: ...R-really?
+    expression: shock
+  - speakerName: Grace
+    sentence: 'Two minds are better then one. Plus... '
+    expression: happy
+  - speakerName: Grace
+    sentence: ... I miss working with you
+    expression: happy
+  - speakerName: Spade
+    sentence: ...(Blush)
+    expression: blank
+  - speakerName: Spade
+    sentence: Alright.
+    expression: happy
+  - speakerName: 
+    sentence: Grace then let out a big smile. One as if she was the luckiest person
+      in the world
+    expression: Nothing
+  - speakerName: 
+    sentence: Spade then opens the file to find threat letters.
+    expression: Nothing
+  - speakerName: 
+    sentence: The writing was in red but you can tell that whoever wrote this wanted
+      to warn Belle
+    expression: Nothing
+  - speakerName: Spade
+    sentence: Where did you find this?
+    expression: blank
+  - speakerName: Grace
+    sentence: In Belle's locker, it was hidden in her text books.
+    expression: blank
+  - speakerName: 
+    sentence: Spade then took a closer look and saw some holes on the letters
+    expression: blank
+  - speakerName: 
+    sentence: And just then...
+    expression: blank
+  - speakerName: Spade
+    sentence: HACHOO
+    expression: shock talk
+  - speakerName: Spade
+    sentence: ?!
+    expression: mad
+  - speakerName: Spade
+    sentence: I think I know what happened to Belle and who's responsible for her
+      disapearence.
+    expression: mad
+  - speakerName: Spade
+    sentence: Me me at my place tomorow
+    expression: mad
+  - speakerName: Spade
+    sentence: It's time to gather all the pieces of this puzzle.
+    expression: mad

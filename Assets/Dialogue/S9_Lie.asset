@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 01ea6a1906782044093f8e12998c08e5, type: 3}
+  m_Name: S9_Lie
+  m_EditorClassIdentifier: 
+  dialogueLines:
+  - speakerName: Spade
+    sentence: I just felt like going back to this old work because I got bored
+    expression: happy
+  - speakerName: Grace
+    sentence: Boerd?
+    expression: mad
+  - speakerName: Spade
+    sentence: Yep. And I thought if I solved this case I could make myself famous
+      and revive shuffle agency.
+    expression: happy
+  - speakerName: Grace
+    sentence: ...
+    expression: mad
+  - speakerName: Grace
+    sentence: I thought highly of you Spade
+    expression: sad talk
+  - speakerName: 
+    sentence: She then takes her cuffs out and is ready to arrest Spade
+    expression: Nothing
+  - speakerName: Grace
+    sentence: But you're still naive as ever.
+    expression: mad talk
+  - speakerName: Spade
+    sentence: Wait just a min-
+    expression: shock talk
+  - speakerName: 
+    sentence: Suddenly, his head got strucked by Graces jams and he was knocked out
+      unconsious.
+    expression: Nothing

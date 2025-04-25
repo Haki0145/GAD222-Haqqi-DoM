@@ -1,0 +1,111 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 01ea6a1906782044093f8e12998c08e5, type: 3}
+  m_Name: Scene 9
+  m_EditorClassIdentifier: 
+  dialogueLines:
+  - speakerName: 
+    sentence: The next day.
+    expression: Nothing
+  - speakerName: 
+    sentence: Spade decided to investigate the school Belle goes to.
+    expression: Nothing
+  - speakerName: Spade
+    sentence: And by investigate, he broke into the school.
+    expression: Nothing
+  - speakerName: 
+    sentence: He believes there's more evidence related to this case.
+    expression: Nothing
+  - speakerName: 
+    sentence: 'And that Belle could have hidden more secrets in her classroom. '
+    expression: Nothing
+  - speakerName: 
+    sentence: '*Ruffle ruffle*'
+    expression: Nothing
+  - speakerName: Spade
+    sentence: Hmm...
+    expression: Nothing
+  - speakerName: Spade
+    sentence: There must be something around here.
+    expression: 'blank '
+  - speakerName: Spade
+    sentence: I got to hurry before someone spots-
+    expression: 'blank '
+  - speakerName: 
+    sentence: '*Bang*'
+    expression: 'blank '
+  - speakerName: 
+    sentence: Just then, the door of the classroom suddenly burst open.
+    expression: 'blank '
+  - speakerName: Spade
+    sentence: -me
+    expression: sad
+  - speakerName: Grace
+    sentence: FREEZE!
+    expression: mad talk
+  - speakerName: Grace
+    sentence: Put your hands where I can see-
+    expression: mad talk
+  - speakerName: Spade
+    sentence: Grace?
+    expression: sad
+  - speakerName: Grace
+    sentence: Spade?
+    expression: blank
+  - speakerName: Grace
+    sentence: Grace! It's been too lo-
+    expression: blank
+  - speakerName: Grace
+    sentence: Before he could do anything, he was suddenly got shoulder throw by
+      Grace to the ground
+    expression: blank
+  - speakerName: Spade
+    sentence: Ow, ow, ow, ow, OW!!!
+    expression: shock talk
+  - speakerName: 'Grace '
+    sentence: Give me one good reason why I shouldn't arrest you for breaking in
+      the school.
+    expression: mad talk
+  - speakerName: 'Grace '
+    sentence: Agh... I was hired to investigate Belle's disapearence.
+    expression: mad talk
+  - speakerName: 'Grace '
+    sentence: You?
+    expression: blank talk
+  - speakerName: 
+    sentence: She than let go of Spade from her grip.
+    expression: 
+  - speakerName: 'Grace '
+    sentence: Why are you investigating all of a sudden?
+    expression: blank talk
+  - speakerName: 'Grace '
+    sentence: 'Aren''t you retired? '
+    expression: mad talk
+  - speakerName: 'Grace '
+    sentence: 'Aren''t you retired? '
+    expression: mad talk
+  - speakerName: Spade
+    sentence: well...yes but.
+    expression: sad
+  - speakerName: Grace
+    sentence: But?
+    expression: mad
+  - speakerName: Spade
+    sentence: (As a private investigator, crossing paths with a police officer is
+      a no go.)
+    expression: sad
+  - speakerName: Spade
+    sentence: (worst of all its an old friend of mine.)
+    expression: sad
+  - speakerName: Spade
+    sentence: (What should I do?)
+    expression: sad
