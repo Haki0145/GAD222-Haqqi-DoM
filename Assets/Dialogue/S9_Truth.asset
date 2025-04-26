@@ -14,10 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   dialogueLines:
   - speakerName: Spade
-    sentence: I was hired by Sophie Lawrence to find her sister
+    sentence: I was hired by Sophie Lawrence to find her sister.
     expression: mad
   - speakerName: Spade
-    sentence: And I made a pinky promise to her
+    sentence: And I made a pinky promise to her.
     expression: mad
   - speakerName: Grace
     sentence: Belle little sister? Pinky promise?
@@ -35,7 +35,7 @@ MonoBehaviour:
     sentence: Yeah. And that somebody is me. I'm the leader for investigation team.
     expression: 'mad '
   - speakerName: Spade
-    sentence: So where's the rest of your team
+    sentence: Then where's the rest of your team.
     expression: blank
   - speakerName: Grace
     sentence: ...
@@ -47,14 +47,14 @@ MonoBehaviour:
     sentence: Ah... That's sad. Either way...
     expression: sad
   - speakerName: Spade
-    sentence: I'm here to collect any evidence that could help this case
+    sentence: I'm here to collect any evidence that could help solve this case.
     expression: blank
   - speakerName: Grace
     sentence: You mean something liike this?
     expression: blank
   - speakerName: 
     sentence: She the takes out a file containing all of the evidence collected in
-      this school
+      this school.
     expression: Nothing
   - speakerName: Grace
     sentence: I'll give you this if you answer my next question.
@@ -97,7 +97,7 @@ MonoBehaviour:
     expression: mad
   - speakerName: Grace
     sentence: What?
-    expression: sad talk
+    expression: 'sad '
   - speakerName: Spade
     sentence: On the night of his last case. I was told not to follow him for it
       was a dangerous one.
@@ -113,7 +113,7 @@ MonoBehaviour:
     expression: 'sad '
   - speakerName: Grace
     sentence: Why didn't you tell me about this?
-    expression: sad talk
+    expression: 'sad '
   - speakerName: Spade
     sentence: I was a shame. For what I've done. He could've continued as a hard
       boiled detective.
@@ -144,10 +144,10 @@ MonoBehaviour:
     expression: 'sad '
   - speakerName: Grace
     sentence: Spade I-
-    expression: sad talk
+    expression: 'sad '
   - speakerName: Spade
     sentence: I know you have a job to do and your going to arrest me.
-    expression: sad talk
+    expression: 'sad '
   - speakerName: Spade
     sentence: I know you have a job to do and your going to arrest me.
     expression: sad

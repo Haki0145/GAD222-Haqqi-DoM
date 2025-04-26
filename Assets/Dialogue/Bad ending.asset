@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 01ea6a1906782044093f8e12998c08e5, type: 3}
+  m_Name: Bad ending
+  m_EditorClassIdentifier: 
+  dialogueLines:
+  - speakerName: 
+    sentence: And just like that...
+    expression: Nothing
+  - speakerName: 
+    sentence: 'Spade was accidently sent to jail for 2 months breaking in to Ranpo
+      Academy '
+    expression: Nothing
+  - speakerName: 
+    sentence: Although the case for Belle's disapearence ended uo being solved, it
+      was too late.
+    expression: Nothing
+  - speakerName: 
+    sentence: By the time the police found her, she was dead in shed near a windmill.
+    expression: Nothing
+  - speakerName: 
+    sentence: One can only imagine how much despair teh family felt hearing the news.
+    expression: Nothing
+  - speakerName: 
+    sentence: But none can feel more regretful then Spade himself.
+    expression: Nothing
+  - speakerName: 
+    sentence: As he heard the news himself. he felt another burden upon him weigh
+      his heart.
+    expression: Nothing
+  - speakerName: 
+    sentence: One that can only be describe as regret knowing he could've done more
+      to help.
+    expression: Nothing
+  - speakerName: 
+    sentence: Regardless he continues on as any ordinary citizen.
+    expression: Nothing
+  - speakerName: 
+    sentence: But with more shame then ever
+    expression: Nothing
+  - speakerName: 
+    sentence: But with more shame then ever
+    expression: Nothing
+  - speakerName: 
+    sentence: Bad ending. Achieved
+    expression: Nothing

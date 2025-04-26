@@ -1,0 +1,376 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 01ea6a1906782044093f8e12998c08e5, type: 3}
+  m_Name: Scene 10
+  m_EditorClassIdentifier: 
+  dialogueLines:
+  - speakerName: 
+    sentence: The next day, we see Rebecca presumingly walking in an alley way to
+      go to Ryan's house.
+    expression: Nothing
+  - speakerName: Rebecca
+    sentence: ...
+    expression: blank
+  - speakerName: 'Spade '
+    sentence: Ms Henderson wait.
+    expression: blank
+  - speakerName: Rebecca
+    sentence: Oh?
+    expression: blank
+  - speakerName: Rebecca
+    sentence: Mr.Soles. What brings you here today?
+    expression: blank talk
+  - speakerName: Spade
+    sentence: I just wanted to rreturn this back to you. I happened to dee you droped
+      it.
+    expression: 'blank '
+  - speakerName: 
+    sentence: He then presents a letter to her
+    expression: Nothing
+  - speakerName: 'Rebecca '
+    sentence: A letter? I don't remember carrying one.
+    expression: blank
+  - speakerName: Spade
+    sentence: Oh but you did, you left it at some place so I had to return it to
+      its rightful owner
+    expression: happy
+  - speakerName: Spade
+    sentence: I think you should opened it just to make sure the contents of it are
+      there.
+    expression: Nothing
+  - speakerName: 
+    sentence: Rebecca was a bit puzzled on why Spade gave her a letter that she didn't
+      carry.
+    expression: Nothing
+  - speakerName: 
+    sentence: 'So she decided to open it and in it... '
+    expression: Nothing
+  - speakerName: 
+    sentence: Was was the death threats sent to Belle.
+    expression: Nothing
+  - speakerName: Rebecca
+    sentence: '*Gasp*'
+    expression: shock talk
+  - speakerName: 'Spade '
+    sentence: 'You know what''s funny? '
+    expression: blank
+  - speakerName: 'Spade '
+    sentence: I found your letter in Belle's locker.
+    expression: mad
+  - speakerName: Rebecca
+    sentence: I-I don't know what you're talking about.
+    expression: 'shock '
+  - speakerName: Spade
+    sentence: Maybe. Maybe not.
+    expression: blank
+  - speakerName: Spade
+    sentence: But it's best if I start explainingmy proof from the begining.
+    expression: happy
+  - speakerName: Spade
+    sentence: When I was gathering information about the Belle, people started to
+      notice her behaviour...
+    expression: 'blank '
+  - speakerName: Spade
+    sentence: ... changed right after the schools festival.
+    expression: blank
+  - speakerName: Spade
+    sentence: 2 things happened that were involved with Belle
+    expression: blank
+  - speakerName: Spade
+    sentence: She won a competition and she rejected the most popular boy in school.
+    expression: blank
+  - speakerName: Spade
+    sentence: These 2 events might not be related, but it was...
+    expression: blank
+  - speakerName: Spade
+    sentence: ... for someone who got jealous of Belle's actions.
+    expression: mad
+  - speakerName: Rebecca
+    sentence: And how those this make me the suspect?
+    expression: mad talk
+  - speakerName: Spade
+    sentence: I'll get to that part.
+    expression: mad
+  - speakerName: Spade
+    sentence: I had to think carefully for this case, Belle was a known figure in
+      her school.
+    expression: blank
+  - speakerName: Spade
+    sentence: Therefore anyone could have hold grudges or get jealous of her.
+    expression: blank
+  - speakerName: Rebecca
+    sentence: ?1
+    expression: shock
+  - speakerName: Spade
+    sentence: When you were out to go get groceries, I had a cha with your mom.
+    expression: blank
+  - speakerName: Spade
+    sentence: She told me a lot. She told me how you were a bi jealous of Belle's
+      life.
+    expression: blank
+  - speakerName: Spade
+    sentence: 'But what mad you more ticked off is that she "stole" your dream... '
+    expression: blank
+  - speakerName: Spade
+    sentence: ... and crush your crushes heart.
+    expression: blank
+  - speakerName: 
+    sentence: Spade then presented Rebecca's diary to her.
+    expression: Nothing
+  - speakerName: Rebecca
+    sentence: MY DIARY?!
+    expression: shock talk
+  - speakerName: Spade
+    sentence: Courtusey of your mom.
+    expression: mad
+  - speakerName: Spade
+    sentence: When I read through it, it tells how much you love to dance and wanted
+      to be the number 1 ballet dancer.
+    expression: blank
+  - speakerName: Spade
+    sentence: On top of that, you had a crush with a certain boy you had since kindergarden.
+    expression: blank
+  - speakerName: Spade
+    sentence: That being Ryan
+    expression: mad
+  - speakerName: Spade
+    sentence: Your childhood friend.
+    expression: blank
+  - speakerName: Rebecca
+    sentence: ?!
+    expression: shock
+  - speakerName: Spade
+    sentence: 'But when Belle earned the respect of the famous dancer more then you... '
+    expression: blank
+  - speakerName: Spade
+    sentence: ... And finding out your crush like's your best friend more then you...
+    expression: blank
+  - speakerName: Spade
+    sentence: ... And got rejected, you snaped.
+    expression: mad
+  - speakerName: Rebecca
+    sentence: So what if I got jealous? That dosen't prove that I caused her to disapear.
+    expression: 'mad talk '
+  - speakerName: Spade
+    sentence: You didn't make disapear. Instead...
+    expression: blank
+  - speakerName: Spade
+    sentence: You threathen her to leave!
+    expression: mad
+  - speakerName: Rebecca
+    sentence: ?!
+    expression: shock
+  - speakerName: Spade
+    sentence: As I read through your diary, I noticed yo had cursive writing.
+    expression: blank
+  - speakerName: Spade
+    sentence: I compared through the letters and your diary.
+    expression: mad
+  - speakerName: Spade
+    sentence: Sure enough, how you wrote the capital R is the same as the letter.
+    expression: happy
+  - speakerName: Rebecca
+    sentence: T-thats... anyone could-
+    expression: shock
+  - speakerName: Spade
+    sentence: Have the same currsive R? I know. But what made me to speculate you
+      as the prime suspect...
+    expression: mad
+  - speakerName: Spade
+    sentence: Was your cat.
+    expression: mad
+  - speakerName: Rebecca
+    sentence: Huh? My cat?
+    expression: blank
+  - speakerName: Spade
+    sentence: Yeah, you see I'm severly allergic to them.
+    expression: blank
+  - speakerName: Spade
+    sentence: One small hair from them and I sneeze people to next week.
+    expression: blank
+  - speakerName: Spade
+    sentence: I even recieved information from Ryan that your cat tends to bite a
+      lot of things.
+    expression: blank
+  - speakerName: Spade
+    sentence: Including...
+    expression: blank
+  - speakerName: Spade
+    sentence: He then takes out one of the letters and comapres it to the pages of
+      the book.
+    expression: blank
+  - speakerName: Spade
+    sentence: ...paper
+    expression: happy
+  - speakerName: 
+    sentence: Spade then shows the holes around the paper and the pages of the diary.
+    expression: Nothing
+  - speakerName: 
+    sentence: Wouldn't you know, they match
+    expression: Nothing
+  - speakerName: Spade
+    sentence: It's over Rebecca, I notified the police of this.
+    expression: mad
+  - speakerName: Rebecca
+    sentence: -cident
+    expression: shock
+  - speakerName: Spade
+    sentence: '?'
+    expression: sad
+  - speakerName: Rebecca
+    sentence: IT WAS AN ACCIDENT!!!
+    expression: mad talk
+  - speakerName: Rebecca
+    sentence: After she knew who sent those letters, she told me to me at the usual
+      spot.
+    expression: mad talk
+  - speakerName: Rebecca
+    sentence: I arrdued with her until... I accidently pushed her off the stairs.
+    expression: sad
+  - speakerName: Rebecca
+    sentence: 'She didn''t move. So I hid her in the shed. '
+    expression: sad
+  - speakerName: Rebecca
+    sentence: I just didn't know what to do.
+    expression: sad talk
+  - speakerName: Rebecca
+    sentence: I just didn't know what to do. But I knew if someone found out about
+      it.
+    expression: sad talk
+  - speakerName: Rebecca
+    sentence: My life... I'll go back to leaving a miserable lonely life !!
+    expression: sad talk
+  - speakerName: Spade
+    sentence: ...
+    expression: mad
+  - speakerName: Spade
+    sentence: I didn't come here just point you out you know.
+    expression: mad
+  - speakerName: Spade
+    sentence: I wanted to give you one last thing to tie everything up.
+    expression: mad
+  - speakerName: Rebecca
+    sentence: What? More evidence?!
+    expression: mad
+  - speakerName: Spade
+    sentence: No this
+    expression: sad
+  - speakerName: Spade
+    sentence: No... this.
+    expression: sad
+  - speakerName: Spade
+    sentence: He pulls out a scrapbook conating the memories of her and Belle's friendship...
+    expression: sad
+  - speakerName: Spade
+    sentence: ... made by Belle
+    expression: sad
+  - speakerName: Rebeccs
+    sentence: Th-this is..
+    expression: sad
+  - speakerName: Spade
+    sentence: Before she met you, she too was lonely.
+    expression: sad
+  - speakerName: Spade
+    sentence: No matter how much she acomplish or how much she impressed people
+    expression: sad
+  - speakerName: Spade
+    sentence: But when she met you and how you geniuenly wanted to be friends.
+    expression: sad
+  - speakerName: Spade
+    sentence: She found a friend.
+    expression: sad
+  - speakerName: Spade
+    sentence: She found a friend.
+    expression: sad
+  - speakerName: Spade
+    sentence: A friend that she can rely on and have nice chats not about her accomplishments...
+      but as her.
+    expression: sad
+  - speakerName: Spade
+    sentence: The world showed her masked smiles. But you... gave a geniune smile.
+    expression: sad
+  - speakerName: 
+    sentence: She then flips through the scrap book containg all the littlest things
+      she treasured.
+    expression: Nothing
+  - speakerName: 
+    sentence: Their first ever photo together, a reciept of when they first shop
+      together...
+    expression: Nothing
+  - speakerName: 
+    sentence: ... Above else, a drawing of them together with the headlines saying...
+    expression: Nothing
+  - speakerName: 
+    sentence: '"Let''s always be friends forever"'
+    expression: Nothing
+  - speakerName: Spade
+    sentence: She wanted to give you this for your birthday.
+    expression: sad
+  - speakerName: 
+    sentence: Rebecca, having so many mixed emotions of this event, gave her knees
+      out and fall...
+    expression: Nothing
+  - speakerName: 
+    sentence: '...While she cries.  '
+    expression: Nothing
+  - speakerName: Rebecca
+    sentence: W-what... what have I done?
+    expression: crying
+  - speakerName: Rebecca
+    sentence: WHAT HAVE I DONE?! *Sob*
+    expression: crying
+  - speakerName: Rebecca
+    sentence: Belle... I'm....Im so-
+    expression: crying
+  - speakerName: Rebecca
+    sentence: Belle... I'm....Im so-
+    expression: crying
+  - speakerName: Rebecca
+    sentence: Before you apologies, say it to her
+    expression: crying
+  - speakerName: Rebecca
+    sentence: '?'
+    expression: sad
+  - speakerName: 
+    sentence: She then looks at the direction of where spade was pointing and who
+      was there was
+    expression: Nothing
+  - speakerName: Belle
+    sentence: ...
+    expression: sad L
+  - speakerName: Rebecca
+    sentence: B-Belle-?!
+    expression: shock talk
+  - speakerName: 
+    sentence: Belle then runs towards her, giving her friend...
+    expression: Nothing
+  - speakerName: 
+    sentence: ... a big hug
+    expression: shock talk
+  - speakerName: Rebecca
+    sentence: Belle... I
+    expression: shock talk
+  - speakerName: Belle
+    sentence: IM SO SORRY... I DIDN'T KNOW I HURTED YOU!!!
+    expression: sad talk L
+  - speakerName: Rebecca
+    sentence: ...
+    expression: shock
+  - speakerName: Rebecca
+    sentence: 'but... I''M SORRY... FOR CAUSING YOU TROUBLE!!! '
+    expression: crying
+  - speakerName: 
+    sentence: Both friend shugged and cried theri hearts out.
+    expression: Nothing
+  - speakerName: 
+    sentence: Eventually, they were relief that one wasn't hurt from another.
+    expression: Nothing
