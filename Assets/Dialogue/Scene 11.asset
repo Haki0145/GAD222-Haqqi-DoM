@@ -1,0 +1,308 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 01ea6a1906782044093f8e12998c08e5, type: 3}
+  m_Name: Scene 11
+  m_EditorClassIdentifier: 
+  dialogueLines:
+  - speakerName: 
+    sentence: 3 days later...
+    expression: Nothing
+  - speakerName: 
+    sentence: Spade sips his coffee in a nearby cafe, sighing in relief knowing the
+      case has been solved.
+    expression: Nothing
+  - speakerName: 
+    sentence: While drinking, he waits for a certain someone running late.
+    expression: Nothing
+  - speakerName: 
+    sentence: '*Tap*'
+    expression: Nothing
+  - speakerName: Spade
+    sentence: Hmm?
+    expression: blank
+  - speakerName: Grace
+    sentence: 'Hey, sorry I''m late... I had pick this up along the way.  '
+    expression: happy
+  - speakerName: 
+    sentence: She then gives today's newspaper to Spade...
+    expression: Nothing
+  - speakerName: 
+    sentence: With the headlines of the case if Belle's disapearence.
+    expression: Nothing
+  - speakerName: 
+    sentence: Happened becuase she ran away from home because she didn't like the
+      she was given...
+    expression: Nothing
+  - speakerName: 
+    sentence: ... and wanted to experience a rebelious phase.
+    expression: Nothing
+  - speakerName: 
+    sentence: It turns out Belle forgave her friend enough to the point she wanted
+      to drop the charges...
+    expression: Nothing
+  - speakerName: 
+    sentence: '... and make whole new story. Preserving the truth and her friendship. '
+    expression: Nothing
+  - speakerName: Grace
+    sentence: 'Those two really are good friends. '
+    expression: happy
+  - speakerName: Spade
+    sentence: Well it was thanks to Sophie... She new bits secrets about those two.
+    expression: happy
+  - speakerName: Spade
+    sentence: Some times when they have sleep overs, she would over hear them about
+      any gossips and secrets.
+    expression: happy
+  - speakerName: Spade
+    sentence: She even over heard of their secret meeting spot.
+    expression: happy
+  - speakerName: Spade
+    sentence: So when I asked her where would they normally have private chats, she
+      told me about the place.
+    expression: happy
+  - speakerName: Grace
+    sentence: Not bad... And speak of the devil.
+    expression: happy talk
+  - speakerName: 
+    sentence: 'Grace points behind Spade for him to look '
+    expression: Nothing
+  - speakerName: Grace
+    sentence: By the time he turns around he gets tackled by a little girl half his
+      size
+    expression: happy talk
+  - speakerName: Spade
+    sentence: Oof
+    expression: shock talk
+  - speakerName: Sophie
+    sentence: Thank you, thank you ,thank you ,thank you ,thank you!!
+    expression: happy talk
+  - speakerName: Spade
+    sentence: Lady I can't breathe!
+    expression: shock talk
+  - speakerName: 
+    sentence: 'He then stands up so that he can loosen her grip a little. '
+    expression: Nothing
+  - speakerName: 
+    sentence: While Sophie let's go of her bear hug to Spade, a familiar figure shows
+      up
+    expression: Nothing
+  - speakerName: Belle
+    sentence: Hello everyone
+    expression: happy
+  - speakerName: Spade
+    sentence: You're...
+    expression: blank
+  - speakerName: Grace
+    sentence: Ms. Belle?!
+    expression: blank
+  - speakerName: Grace
+    sentence: Shouldn't you be at the hospital resting?
+    expression: blank talk
+  - speakerName: Belle
+    sentence: I was discharge early. I was onky dehydrated and malnourished in theshed.
+    expression: happy
+  - speakerName: Belle
+    sentence: I didn't think my ration bars in my pockets would come in handy.
+    expression: blank talk
+  - speakerName: Spade
+    sentence: Either, it's good we found you in time.
+    expression: happy
+  - speakerName: Belle
+    sentence: Yes, it's all thanks to you and officer Grace.
+    expression: happy
+  - speakerName: Sophie
+    sentence: Yeah thank you. Hiring you was the best decision I made.
+    expression: happy
+  - speakerName: 
+    sentence: One where he found a missing cat for a stranger and recieved praises
+      for them thanks to the bosses help.
+    expression: nothing
+  - speakerName: 
+    sentence: Seeing the praises he recived. Spade had a lingering memory of the
+      time he met the boss
+    expression: nothing
+  - speakerName: 
+    sentence: The warmth he recieved, the smiles that he protected.
+    expression: nothing
+  - speakerName: 
+    sentence: He remembers it all. Why he chose to become a private investigator
+    expression: nothing
+  - speakerName: Spade
+    sentence: '*Clap*'
+    expression: blank
+  - speakerName: Spade
+    sentence: Alright... I've decided.
+    expression: blank
+  - speakerName: Grace
+    sentence: '?'
+    expression: blank
+  - speakerName: Belle
+    sentence: '?'
+    expression: happy
+  - speakerName: Sophie
+    sentence: '?'
+    expression: happy
+  - speakerName: Spade
+    sentence: It's time for me to reopen Shuffle agency
+    expression: happy
+  - speakerName: Grace
+    sentence: ?!
+    expression: happy
+  - speakerName: Grace
+    sentence: Does that mean?
+    expression: happy talk
+  - speakerName: Spade
+    sentence: Not exactly full time, but..
+    expression: 'happy '
+  - speakerName: Spade
+    sentence: '... a part time private investigator shall do the trick. '
+    expression: 'happy '
+  - speakerName: Spade
+    sentence: '... a part time private investigator shall do the trick. '
+    expression: 'happy '
+  - speakerName: 'Sophie '
+    sentence: So, the next time anyones in trouble, will you help them?
+    expression: 'happy '
+  - speakerName: Spade
+    sentence: Yeah
+    expression: 'happy '
+  - speakerName: Belle
+    sentence: That's wonderful.
+    expression: 'happy '
+  - speakerName: Belle
+    sentence: I'll be sure not to lose to part timer.
+    expression: 'happy '
+  - speakerName: Spade
+    sentence: Heh heh.
+    expression: 'happy '
+  - speakerName: Spade
+    sentence: (Boss...)
+    expression: 'happy '
+  - speakerName: Spade
+    sentence: (... when I first joined you.)
+    expression: 'happy '
+  - speakerName: Spade
+    sentence: (I wanted to be cool just lke you.., But now)
+    expression: 'happy '
+  - speakerName: 
+    sentence: He then looks into the blue sky filled with clouds.
+    expression: 'Nothing '
+  - speakerName: Spade
+    sentence: (I want to protect those smile.)
+    expression: 'happy '
+  - speakerName: Spade
+    sentence: (Reach out to those who need help)
+    expression: 'happy '
+  - speakerName: Spade
+    sentence: (And stop anyone who dares to make others cry.)
+    expression: 'happy '
+  - speakerName: 
+    sentence: Spade heart felt less heavy then it was and no longer was aman drifting
+      in the sea of lost hope.
+    expression: Nothing
+  - speakerName: 
+    sentence: He finally found the boat that could help sail across that sea...
+    expression: Nothing
+  - speakerName: 
+    sentence: That being...
+    expression: Nothing
+  - speakerName: 
+    sentence: ... a new dream and hope.
+    expression: Nothing
+  - speakerName: 
+    sentence: Although this chapter of his story has ended, one thing is for sure...
+    expression: Nothing
+  - speakerName: Sophie
+    sentence: Oh yeah, that reminds me.I forgot to pay you back.
+    expression: 'happy '
+  - speakerName: Sophie
+    sentence: Here.
+    expression: happy talk
+  - speakerName: Spade
+    sentence: Oh... uh you don't need to-
+    expression: happy talk
+  - speakerName: 
+    sentence: '*Tap*'
+    expression: Nothing
+  - speakerName: Spade
+    sentence: ...
+    expression: shock
+  - speakerName: Spade
+    sentence: Sophie, what is this?
+    expression: shock
+  - speakerName: Sophie
+    sentence: My dad calls it a check.
+    expression: happy
+  - speakerName: Sophie
+    sentence: He said if I ever need to buy something, I write down the amoun of
+      numbers on it and my dads name...
+    expression: happy
+  - speakerName: Sophie
+    sentence: And give it to the person.
+    expression: happy
+  - speakerName: Spade
+    sentence: But it says $5,000. Isn't that too much?!
+    expression: shock
+  - speakerName: Sophie
+    sentence: Too much? She usually gves me more then this as pocket money.
+    expression: happy
+  - speakerName: Spade
+    sentence: ...
+    expression: shock talk
+  - speakerName: Spade
+    sentence: (How richh are these people)
+    expression: shock talk
+  - speakerName: Grace
+    sentence: You get paid twice teh amount I'm earning a month?!
+    expression: mad
+  - speakerName: Grace
+    sentence: No fair! I helped you too.
+    expression: mad talk
+  - speakerName: Grace
+    sentence: Spade your treating me to dinner after this.
+    expression: 'mad '
+  - speakerName: Spade
+    sentence: Well... I was thinking of buying the latest figurines so....
+    expression: sad
+  - speakerName: Grace
+    sentence: YOUR PRIORITIZING TOYS AND NOT REWARDING ME FOR HELPING YOU?!?!?!
+    expression: mad talk
+  - speakerName: Spade
+    sentence: 'Hey don''t phrase it like that, you wanted to help me. '
+    expression: shock
+  - speakerName: Grace
+    sentence: So cruel...
+    expression: sad
+  - speakerName: Spade
+    sentence: OK, ok. I'll treat you after this.
+    expression: 'shock '
+  - speakerName: Grace
+    sentence: Hehe... works like a charm as always
+    expression: happy
+  - speakerName: Spade
+    sentence: Oi !
+    expression: shock talk
+  - speakerName: Sophie
+    sentence: Ha ha ha ha ha.
+    expression: happy
+  - speakerName: Belle
+    sentence: he he
+    expression: happy
+  - speakerName: 
+    sentence: ... he won't face it alone.
+    expression: Nothing
+  - speakerName: 
+    sentence: As his story continues
+    expression: Nothing
+  - speakerName: 
+    sentence: Good ending. Achieved
+    expression: Nothing

@@ -18,12 +18,12 @@ MonoBehaviour:
     sprite: {fileID: -514790519108222588, guid: 2ed8237a554e63e4097050f2d1647bc8, type: 3}
   - name: angry
     sprite: {fileID: -8097867896766520510, guid: 869093eb0c541d74fa251ba0a8662bba, type: 3}
-  - name: happy talking
+  - name: happy talk
     sprite: {fileID: 6069547730186395233, guid: 7557dc391e3cb5242890f3b4b3bdd68a, type: 3}
   - name: happy
     sprite: {fileID: 2658344004300327387, guid: 053105a188dc54749a115124feae4d37, type: 3}
   - name: sad
     sprite: {fileID: -3128078141031688047, guid: 0012775f26c31ff4c8ccf64da4c5a44b, type: 3}
-  - name: sad nervous
+  - name: sad talk
     sprite: {fileID: -408399451120569676, guid: 9b4506846035bff47a76984756ec4abe, type: 3}
   appearsOnLeft: 0
