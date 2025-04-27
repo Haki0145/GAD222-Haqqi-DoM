@@ -28,10 +28,15 @@ public class DialogueSystem : MonoBehaviour
     private bool isTyping = false;
     private string currentSentence;
 
+    private FadeSystem fadeSystem;
+
+
     
 
     void Start()
     {
+        fadeSystem = FindAnyObjectByType<FadeSystem>().GetComponent<FadeSystem>();
+
         dialogueLines = new Queue<Dialogue.DialogueLine>();
 
         if (PlayerPrefs.GetInt("SkipDialogue", 0) == 1)
@@ -113,6 +118,7 @@ public class DialogueSystem : MonoBehaviour
         }
         else
         {
+            nextSceneName = choice1Scene;
             LoadNextScene();
         }
     }
@@ -156,7 +162,7 @@ public class DialogueSystem : MonoBehaviour
     {
         if (!string.IsNullOrEmpty(nextSceneName))
         {
-            FadeSystem.Instance.FadeToScene(nextSceneName);
+            fadeSystem.FadeToScene(nextSceneName);
         }
         else
         {

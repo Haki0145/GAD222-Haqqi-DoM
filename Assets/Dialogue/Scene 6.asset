@@ -15,107 +15,157 @@ MonoBehaviour:
   dialogueLines:
   - speakerName: 
     sentence: 3 days later...
+    expression: Nothing
   - speakerName: 
     sentence: After interrogating Sophie and several people he believed had information
       on the case.
+    expression: Nothing
   - speakerName: 
     sentence: He learned a lot of things about the victim.
+    expression: Nothing
   - speakerName: 
     sentence: First, a letter that he got from Sophie that happened to be for Belle.
+    expression: Nothing
   - speakerName: 
     sentence: It states to come to a roof top around 8pm
+    expression: Nothing
   - speakerName: 
     sentence: Second, there was a school festival days before the incident.
+    expression: Nothing
   - speakerName: 
     sentence: Third, after the school festival, Belle became distant to everyone
       around her.
+    expression: Nothing
   - speakerName: 
     sentence: Belle Lawrence was not only a smart student,
+    expression: Nothing
   - speakerName: 
     sentence: but someone who was recognized as the ace student throughout the entire
       school.
+    expression: Nothing
   - speakerName: 
     sentence: Outside her family she often talks to her best friend, Rebbeca.
+    expression: Nothing
   - speakerName: Spade
     sentence: And the ace of the basketball team, Ryan.
+    expression: blank
   - speakerName: 
     sentence: Kind, beautiful, and smart, she was bound to make enemies with her
       popularity.
+    expression: blank
   - speakerName: Spade
     sentence: (The only quetsion is...)
+    expression: mad
   - speakerName: Spade
     sentence: (Who would have a big grudge against her?)
+    expression: sad
   - speakerName: Spade
     sentence: (Is this really a disappearence case... or is it something more?)
+    expression: blank
   - speakerName: Spade
     sentence: (Something must have happened in that festival...)
+    expression: mad
   - speakerName: Spade
     sentence: (...And I need more information.)
+    expression: mad
   - speakerName: 
     sentence: Spade then decided to go to a familiar alley way.
+    expression: 
   - speakerName: 
     sentence: One that he hasn't been to in a long time.
+    expression: Nothing
   - speakerName: 
     sentence: He then goes up to a metal door outside a suspicious building.
+    expression: Nothing
   - speakerName: 
     sentence: He knocks on it in a rhythm.
+    expression: Nothing
   - speakerName: Spade
     sentence: '*Knock Knock Knock*'
+    expression: blank
   - speakerName: ???
     sentence: '"..."'
+    expression: Nothing
   - speakerName: ???
     sentence: '"How can a king and queen be more powerful? "'
+    expression: Nothing
   - speakerName: Spade
     sentence: '"With 10 soldiers and a Jack with an Ace"'
+    expression: blank
   - speakerName: 
     sentence: Suddenly, a small door slides open to reveal a pair of eyes
+    expression: Nothing
   - speakerName: ???
     sentence: '"Little Spade!"'
+    expression: Nothing
   - speakerName: ???
     sentence: '"Is that really you?"'
+    expression: Nothing
   - speakerName: Spade
     sentence: '"Im no longer little Ivan. "'
+    expression: blank
   - speakerName: Ivan
     sentence: '"True. I didn''t expect to see you again in a long time."'
+    expression: 
   - speakerName: Ivan
     sentence: '"Spare the clueless talk... you knew I was coming."'
+    expression: 
   - speakerName: Ivan
     sentence: '"Maybe. Maybe not."'
+    expression: 
   - speakerName: Ivan
     sentence: '"More importantly... you''re not here for reunion are you, my friend?"'
+    expression: Nothing
   - speakerName: 
     sentence: Even behind the door, his tone suddenly sounded higher and more playful.
+    expression: Nothing
   - speakerName: 
     sentence: Spade then proceeds to take out his handbook and show all the info
       he has to Ivan.
+    expression: 
   - speakerName: Ivan
     sentence: '"Hmm..."'
+    expression: 
   - speakerName: Ivan
     sentence: '"So it is true."'
+    expression: 
   - speakerName: Ivan
     sentence: '"Spade Sole returns to be a detective."'
+    expression: 
   - speakerName: Spade
     sentence: '"I need to know what happen during the school festival related to
       her."'
+    expression: mad
   - speakerName: Spade
     sentence: '"There are a lot of suspects but the main ones...."'
+    expression: mad
   - speakerName: Spade
     sentence: '"...Are her best friend and the captain of the basketball team."'
+    expression: mad
   - speakerName: Spade
     sentence: '"Any ideas what happen between these 3 during the school festival?"'
+    expression: mad
   - speakerName: Ivan
     sentence: '"Hmm...maybe"'
+    expression: 
   - speakerName: Ivan
     sentence: '"But I think I need something to jog my memory."'
+    expression: 
   - speakerName: 
     sentence: Ivan then puts out his hand and rubs his fingers together.
+    expression: 
   - speakerName: 
     sentence: Spade rolls his eyes and takes out his remaining money from his wallet.
+    expression: 
   - speakerName: Ivan
     sentence: '"Nice...but that can ony recover 1 memory from my mind."'
+    expression: 
   - speakerName: Spade
     sentence: '"My salary is not solid. Cut me soem slack."'
+    expression: shock
   - speakerName: Ivan
     sentence: '"Sorry Spade... but my info isn''t cheap y''know."'
+    expression: Nothing
   - speakerName: Spade
     sentence: (If it comes to this then I have to ask wisely.)
+    expression: mad

@@ -5,22 +5,9 @@ using System.Collections;
 
 public class FadeSystem : MonoBehaviour
 {
-    public static FadeSystem Instance;
     public Image fadePanel;
     public float fadeDuration = 1f;
 
-    void Awake()
-    {
-        if (Instance == null)
-        {
-            Instance = this;
-            DontDestroyOnLoad(gameObject);
-        }
-        else
-        {
-            Destroy(gameObject);
-        }
-    }
 
     public void FadeToScene(string sceneName)
     {

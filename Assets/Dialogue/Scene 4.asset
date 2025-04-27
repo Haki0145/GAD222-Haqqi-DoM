@@ -44,23 +44,23 @@ MonoBehaviour:
   - speakerName: 
     sentence: '*Click*'
     expression: Nothing
-  - speakerName: News Reporter
+  - speakerName: 
     sentence: The case of the missing student, Belle Lawrence, continues on as police
       keep investigating their whereabouts.
     expression: Nothing
   - speakerName: News Reporter
     sentence: She was last seen leaving school to go back home.
     expression: Nothing
-  - speakerName: News Reporter
+  - speakerName: 
     sentence: 'Unbeknownst to anyone, this would be the last time anyone saw her. '
     expression: Nothing
-  - speakerName: News Reporter
+  - speakerName: 
     sentence: 'The parents of the missing student continue to worry about her safety
       as they fear she might be dead.
 
 '
     expression: Nothing
-  - speakerName: News Reporter
+  - speakerName: 
     sentence: 'The investigation team has been spread thin due to the upcoming parade
       happening next week. '
     expression: Nothing
@@ -68,7 +68,7 @@ MonoBehaviour:
     sentence: Although evidence of the case has been hard to find, her loved ones
       are praying for her wellbeing.
     expression: Nothing
-  - speakerName: News Reporter
+  - speakerName: 
     sentence: 'In other news-
 
 '
@@ -114,4 +114,4 @@ MonoBehaviour:
     expression: Nothing
   - speakerName: Spade
     sentence: '"M...my...WALLET IS GONE!!!"'
-    expression: shock
+    expression: shock talk

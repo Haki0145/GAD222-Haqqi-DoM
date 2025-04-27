@@ -217,7 +217,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8636883631985975101, guid: efb1aeb6e1f4d55479f253154c521cb0, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -108
+      value: -126
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -266,6 +266,10 @@ PrefabInstance:
       propertyPath: testDialogue
       value: 
       objectReference: {fileID: 11400000, guid: 24c0d606357e30b4ca6e7a82140a0b45, type: 2}
+    - target: {fileID: 1177957671658915453, guid: 17ecd2cff4713744caca1396b475cfb1, type: 3}
+      propertyPath: nextSceneName
+      value: The end
+      objectReference: {fileID: 0}
     - target: {fileID: 2764035934155465640, guid: 17ecd2cff4713744caca1396b475cfb1, type: 3}
       propertyPath: m_LocalPosition.x
       value: 387.31805
