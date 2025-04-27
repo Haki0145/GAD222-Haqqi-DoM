@@ -8,7 +8,7 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/SampleScene.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Main Menu.unity
     guid: 4dc6f1008825bb6429798a16853ea8bc
   - enabled: 1
@@ -36,8 +36,26 @@ EditorBuildSettings:
     path: Assets/Scenes/S7_Rebecca Route.unity
     guid: f2cf92c94cb212e4cb663eb32caec051
   - enabled: 1
+    path: Assets/Scenes/S8_Rebecca.unity
+    guid: 27258f27eeab5464b8d38439c6f0e578
+  - enabled: 1
     path: Assets/Scenes/S7_Ryan Route.unity
     guid: 22a334df33a236f41a1cd5673c7846c4
+  - enabled: 1
+    path: Assets/Scenes/S8_Ryan 1.unity
+    guid: db5042d7c9a6c0b4aac1786f250a3517
+  - enabled: 1
+    path: Assets/Scenes/Scene 9.unity
+    guid: 7554fb2d8bc39ef43b0de8a03d721f5a
+  - enabled: 1
+    path: Assets/Scenes/Bad Ending.unity
+    guid: 749267b98f64ede4cb8a89b4a6c1f648
+  - enabled: 1
+    path: Assets/Scenes/Scene 10.unity
+    guid: ab48a8b478b238a40ae210565a4778a7
+  - enabled: 1
+    path: Assets/Scenes/Scene 11.unity
+    guid: f50e3b237a8eb4d459d10e03ea96b508
   - enabled: 1
     path: Assets/Scenes/The End.unity
     guid: ad5f28e6614f414468760d383de12ddd

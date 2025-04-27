@@ -15,39 +15,58 @@ MonoBehaviour:
   dialogueLines:
   - speakerName: Spade
     sentence: '"What was Rebecca doing during the school festival?"'
+    expression: mad
   - speakerName: Ivan
     sentence: '"Rebecca, the victims best friend?"'
+    expression: Nothing
   - speakerName: Ivan
     sentence: '"Well... since you don''t know, she participated in a contest."'
+    expression: Nothing
   - speakerName: Ivan
     sentence: '"A... ballet contest."'
+    expression: Nothing
   - speakerName: Spade
     sentence: '"Ballet?"'
+    expression: sad
   - speakerName: Ivan
     sentence: '"I''ve heard Belle and Rebecca had a strong passion for the art."'
+    expression: Nothing
   - speakerName: Ivan
     sentence: '"It''s the reason why they became such good friends."'
+    expression: Nothing
   - speakerName: Ivan
     sentence: '"As for the competition?"'
+    expression: Nothing
   - speakerName: Ivan
     sentence: '"They won, of course."'
-  - speakerName: 
-    sentence: '"And after that, when Belle was distant,"'
+    expression: Nothing
+  - speakerName: Ivan
+    sentence: '"And after that, when Belle was distant."'
+    expression: Nothing
   - speakerName: 
     sentence: '"she barely went to school and was even more depressed."'
+    expression: Nothing
   - speakerName: Spade
     sentence: '"..."'
+    expression: blank
   - speakerName: Ivan
     sentence: '"What? Unsatisfied with the info?"'
+    expression: Nothing
   - speakerName: Spade
     sentence: '"Would''ve been better if you added more details."'
+    expression: mad
   - speakerName: Ivan
     sentence: '"That''s all I could jog up my head with the amount you gave."'
+    expression: Nothing
   - speakerName: Ivan
     sentence: '"But I''m sure that info alone is enough for you."'
+    expression: Nothing
   - speakerName: Ivan
     sentence: '"Until next time, old friend."'
+    expression: Nothing
   - speakerName: 
     sentence: With little information he recieved,
+    expression: Nothing
   - speakerName: 
     sentence: he decided to leave and think what to do next.
+    expression: Nothing

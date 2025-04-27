@@ -31,142 +31,142 @@ MonoBehaviour:
     expression: blank
   - speakerName: ???
     sentence: '"Mister!"'
-    expression: nothing
+    expression: Nothing
   - speakerName: Spade
     sentence: '"?"'
-    expression: 
+    expression: blank
   - speakerName: 
     sentence: He heard a familiar voice shouting behind him.
-    expression: 
+    expression: Nothing
   - speakerName: 
     sentence: As he turned around, he saw the same little girl he helped from before.
-    expression: 
+    expression: Nothing
   - speakerName: 
     sentence: She waves at him with...
-    expression: 
+    expression: Nothing
   - speakerName: Spade
     sentence: '"My wallet!"'
-    expression: 
+    expression: happy
   - speakerName: ???
     sentence: '"You dropped this early this morning."'
-    expression: 
+    expression: Nothing
   - speakerName: ???
     sentence: '"Here!"'
-    expression: 
+    expression: Nothing
   - speakerName: 
     sentence: She gives the wallet back to Spade.
-    expression: 
-  - speakerName: 
+    expression: Nothing
+  - speakerName: Spade
     sentence: '"Thank you so much!"'
-    expression: 
+    expression: happy
   - speakerName: 
     sentence: A little tear apears as he smiles.
-    expression: 
+    expression: Nothing
   - speakerName: Spade
     sentence: (I guess this is what you call good deed)
     expression: 
   - speakerName: 'Spade '
     sentence: '"You really save my skin there."'
-    expression: 
+    expression: happy
   - speakerName: 'Spade '
     sentence: '"Well I gotta go... Thanks for finding it."'
-    expression: 
+    expression: blank
   - speakerName: ???
     sentence: '"Wait mister!"'
-    expression: 
+    expression: Nothing
   - speakerName: ???
     sentence: '"Before you go...I want to hire you."'
-    expression: 
+    expression: Nothing
   - speakerName: Spade
     sentence: '"Huh?"'
-    expression: 
+    expression: Nothing
   - speakerName: Spade
     sentence: '"Hire me?....for wh-"'
-    expression: 
+    expression: blank
   - speakerName: 
     sentence: As he turns around to look at her,
-    expression: 
+    expression: Nothing
   - speakerName: 
     sentence: The little girl shows the old business card Spade kept in his wallet.
-    expression: 
-  - speakerName: Sophie Lawrence
+    expression: Nothing
+  - speakerName: Sophie
     sentence: '"My name is Sophie Lawrence."'
-    expression: 
-  - speakerName: Sophie Lawrence
+    expression: happy
+  - speakerName: Sophie
     sentence: '"And I want to hire you..."'
-    expression: 
-  - speakerName: Sophie Lawrence
+    expression: happy
+  - speakerName: Sophie
     sentence: '"...Detective Spade Soles"'
-    expression: 
+    expression: happy
   - speakerName: Spade
     sentence: '"?!"'
-    expression: 
+    expression: sad
   - speakerName: Spade
     sentence: '"Lawrence...as in... "'
-    expression: 
-  - speakerName: Sophie Lawrence
+    expression: blank
+  - speakerName: Sophie
     sentence: '"That''s right... you probably watched the news."'
-    expression: 
-  - speakerName: Sophie Lawrence
+    expression: happy
+  - speakerName: Sophie
     sentence: '"My older sister, Belle, went missing a few days ago."'
-    expression: 
-  - speakerName: Sophie Lawrence
+    expression: sad
+  - speakerName: 'Sophie '
     sentence: '"The police have been no help, my parents are worried and everyone
       thinks shes dead"'
-    expression: 
-  - speakerName: Sophie Lawrence
+    expression: mad
+  - speakerName: 'Sophie '
     sentence: '"But now that I found a detective, sis can fin-""'
-    expression: 
+    expression: happy talk
   - speakerName: Spade
     sentence: '"I can''t help you kid."'
-    expression: 
-  - speakerName: Sophie Lawrence
+    expression: sad
+  - speakerName: 'Sophie '
     sentence: '"?!"'
-    expression: 
+    expression: sad
   - speakerName: Spade
     sentence: '"Shuffle Agency has been dissolved years ago."'
-    expression: 
+    expression: sad
   - speakerName: Spade
     sentence: '"And I''m a retired rookie."'
-    expression: 
-  - speakerName: Sophie Lawrence
+    expression: sad
+  - speakerName: 'Sophie '
     sentence: '"But why?"'
-    expression: 
+    expression: sad
   - speakerName: Spade
     sentence: '"...Its a long story"'
-    expression: 
+    expression: sad
   - speakerName: Spade
     sentence: '"The point is, it''s best for the police to handle this."'
-    expression: 
+    expression: sad
   - speakerName: Spade
     sentence: '"It''s better for the professionals to do this, so-"'
-    expression: 
+    expression: sad
   - speakerName: 
     sentence: Before he could say anything else, he then noticed little Sophie on
       the verge of crying.
-    expression: 
-  - speakerName: Sophie Lawrence
+    expression: Nothing
+  - speakerName: 'Sophie '
     sentence: '"Mister Spade... There isn''t anything that I can do."'
-    expression: 
-  - speakerName: Sophie Lawrence
+    expression: sad
+  - speakerName: 'Sophie '
     sentence: '"I keep pestering the police, I can''t comfort my parents..."'
     expression: 
-  - speakerName: Sophie Lawrence
+  - speakerName: Sophie
     sentence: '"And worst of all, I can''t find my big sister."'
-    expression: 
-  - speakerName: Sophie Lawrence
+    expression: sad
+  - speakerName: Sophie
     sentence: '"But now I have a chance to find her with your help."'
-    expression: 
+    expression: sad
   - speakerName: Sophie Lawrence
     sentence: '"I beg of you...help me find my sister."'
-    expression: 
-  - speakerName: Sophie Lawrence
+    expression: sad talk
+  - speakerName: Sophie
     sentence: '"I''ll even give you all my pocket money to find her."'
-    expression: 
+    expression: sad talk
   - speakerName: 
     sentence: Her eyes filled with desperation while clutching both her hands together
       with little hope she had left.
-    expression: 
+    expression: Nothing
   - speakerName: 
     sentence: He thought long and hard and decided that he would...
-    expression: 
+    expression: Nothing

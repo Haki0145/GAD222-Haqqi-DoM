@@ -15,43 +15,63 @@ MonoBehaviour:
   dialogueLines:
   - speakerName: Spade
     sentence: '"Alright kid I''ll help you out."'
-  - speakerName: Sophie Lawrence
+    expression: happy
+  - speakerName: Sophie
     sentence: '"R-really?!"'
+    expression: happy
   - speakerName: 'Spade '
     sentence: '"Yeah... the last thing I want is to make someone cry in this city."'
+    expression: happy
   - speakerName: 'Spade '
     sentence: '"Therefore...I''ll come back out of retirement...just this once."'
-  - speakerName: Sophie Lawrence
+    expression: happy
+  - speakerName: Sophie
     sentence: '"You promise?"'
+    expression: happy
   - speakerName: Spade
     sentence: '"Yeah."'
-  - speakerName: Sophie Lawrence
+    expression: happy
+  - speakerName: Sophie
     sentence: '"Pinky promise?"'
+    expression: happy
   - speakerName: Spade
     sentence: '"Alright."'
+    expression: happy
   - speakerName: 
     sentence: He reaches out his pinky finger to interlock with hers,
+    expression: Nothing
   - speakerName: 
     sentence: solidifying a contract between them.
+    expression: Nothing
   - speakerName: Spade
     sentence: '"If I''m going to do this, I''ll need your help."'
-  - speakerName: Sophie Lawrence
+    expression: blank
+  - speakerName: Spade
     sentence: '"I need all the info and speculation you have about your sister while
       I ask around the city."'
-  - speakerName: Sophie Lawrence
+    expression: blank
+  - speakerName: Sophie
     sentence: '"Okay!"'
+    expression: happy talk
   - speakerName: Spade
     sentence: '"For now it''s getting late, you should head back home before your
       parents worry."'
-  - speakerName: Sophie Lawrence
+    expression: happy
+  - speakerName: Sophie
     sentence: '"Alright, I''ll see you tommorow near the convenient store."'
-  - speakerName: Sophie Lawrence
+    expression: happy talk
+  - speakerName: Sophie
     sentence: '"Bye!!"'
+    expression: happy talk
   - speakerName: 
     sentence: She then runs back home while Spade waves goodbye to her.
+    expression: Nothing
   - speakerName: 
     sentence: He then looks at his right hand and gaze upon his pinky.
+    expression: Nothing
   - speakerName: Spade
     sentence: '"Pinky promise, huh."'
+    expression: blank
   - speakerName: Spade
     sentence: '"I have to get serious then."'
+    expression: happy

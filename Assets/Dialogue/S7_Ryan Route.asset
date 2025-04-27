@@ -15,27 +15,40 @@ MonoBehaviour:
   dialogueLines:
   - speakerName: 
     sentence: Back at his home...
+    expression: Nothing
   - speakerName: 
     sentence: Spade put up all the clues he has so far.
+    expression: Nothing
   - speakerName: Spade
     sentence: '(Belle has two people close to her) '
+    expression: mad
   - speakerName: Spade
     sentence: (Her best friend and the captain of the basketball team)
+    expression: mad
   - speakerName: Spade
     sentence: (So far I acuired additional info about Ryan)
+    expression: mad
   - speakerName: Spade
     sentence: (He has a crush on Belle like many others)
+    expression: mad
   - speakerName: Spade
     sentence: (He tries to get closer to her by studying together from time to time)
+    expression: mad
   - speakerName: Spade
     sentence: (He plan to confess his feelings to her during the festival)
+    expression: mad
   - speakerName: Spade
     sentence: (What happened next is unknown...)
+    expression: mad
   - speakerName: Spade
     sentence: (Did he get rejected to the point he sought out revenge?)
+    expression: sad
   - speakerName: Spade
     sentence: (I still need more info...)
+    expression: mad
   - speakerName: Spade
     sentence: (It's time to inerrogate one of the suspects)
+    expression: mad
   - speakerName: Spade
     sentence: (That being...)
+    expression: mad

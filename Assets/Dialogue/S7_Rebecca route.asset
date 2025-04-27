@@ -15,29 +15,43 @@ MonoBehaviour:
   dialogueLines:
   - speakerName: 
     sentence: Back at his home...
+    expression: Nothing
   - speakerName: 
     sentence: Spade puts up all the clues he has so far.
+    expression: Nothing
   - speakerName: Spade
     sentence: '(Belle has two people close to her) '
+    expression: mad
   - speakerName: Spade
     sentence: (Her best friend and the captain of the basket ball team)
+    expression: mad
   - speakerName: Spade
     sentence: (So far I acuired additional info about Rebecca)
+    expression: mad
   - speakerName: Spade
     sentence: (She and Belle love ballet)
+    expression: mad
   - speakerName: Spade
     sentence: (And entered a competion and won)
+    expression: mad
   - speakerName: Spade
     sentence: (It should be a happy moment for them...yet still,)
+    expression: sad
   - speakerName: Spade
     sentence: (Belle kept her distance from her)
-  - speakerName: 
+    expression: sad
+  - speakerName: Spade
     sentence: (As if she didnt want to drag her into her problems)
+    expression: mad
   - speakerName: Spade
     sentence: (But they're best friends)
+    expression: mad
   - speakerName: Spade
     sentence: (Shouldn't they consult with each other through hard times?)
-  - speakerName: 
+    expression: mad
+  - speakerName: spade
     sentence: (It's time to interrogate the next suspect)
+    expression: mad
   - speakerName: Spade
     sentence: (And that would be...)
+    expression: mad

@@ -15,27 +15,39 @@ MonoBehaviour:
   dialogueLines:
   - speakerName: Spade
     sentence: '"What can you tell me about Ryan during the festival?"'
+    expression: mad
   - speakerName: Ivan
     sentence: '"The captain of the Basketball team?"'
+    expression: Nothing
   - speakerName: Ivan
     sentence: '"Hmmm...as a matter of fact..."'
+    expression: Nothing
   - speakerName: Ivan
     sentence: '"He does have a crush of a paticular student."'
+    expression: Nothing
   - speakerName: Ivan
     sentence: '"that being... the victim herself"'
-  - speakerName: Ivan
+    expression: Nothing
+  - speakerName: Spade
     sentence: '"?!"'
+    expression: mad
   - speakerName: Ivan
     sentence: '"It''s no doubt that he tried his best to get closer to her by studying
       togther with her."'
+    expression: Nothing
   - speakerName: Ivan
     sentence: '"When he finally was brave, he decided to confess to her during the
       festival."'
+    expression: Nothing
   - speakerName: Ivan
     sentence: '"As for the rest...hm..."'
+    expression: Nothing
   - speakerName: Ivan
     sentence: '"That''s all I could jog up my head with the amount you gave."'
+    expression: Nothing
   - speakerName: Ivan
     sentence: '"Until next time, old friend."'
+    expression: Nothing
   - speakerName: 
     sentence: With little information he was given, he decides what to do next.
+    expression: Nothing
